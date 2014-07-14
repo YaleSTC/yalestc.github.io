@@ -1,9 +1,9 @@
 
-http://YaleSTC.github.io/about.html
-http://YaleSTC.github.io/archive.html
-http://YaleSTC.github.io/atom.xml
-http://YaleSTC.github.io/categories.html
-http://YaleSTC.github.io/pages.html
-http://YaleSTC.github.io/rss.xml
-http://YaleSTC.github.io/sitemap.txt
-http://YaleSTC.github.io/tags.html
+http://yalestc.github.io/about.html
+http://yalestc.github.io/archive.html
+http://yalestc.github.io/atom.xml
+http://yalestc.github.io/categories.html
+http://yalestc.github.io/pages.html
+http://yalestc.github.io/rss.xml
+http://yalestc.github.io/sitemap.txt
+http://yalestc.github.io/tags.html

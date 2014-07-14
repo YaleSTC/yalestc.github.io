@@ -1,6 +1,6 @@
 
+http://yalestc.github.io/previous.html
 http://yalestc.github.io/categories.html
-http://yalestc.github.io/history.html
 http://yalestc.github.io/rss.xml
 http://yalestc.github.io/atom.xml
 http://yalestc.github.io/index.html

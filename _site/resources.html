@@ -1,0 +1,494 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Resources for Programmers</title>
+	<meta name="author" content="Casey Watts">
+	<link href='/assets/themes/the-program/css/style.css' rel="stylesheet" media="all">
+	<link href="http://feeds.feedburner.com/" rel="alternate" title="Resources for Programmers" type="application/atom+xml">
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+</head>
+<body>
+
+<div id="page" class="hentry">
+	<header class="the-header">
+		<div class="unit-head">
+			<div class="unit-inner unit-head-inner">
+				<nav class="nav-global">
+					<ul>
+						<li class="logo"><a href="/">Student Developer</a></li>
+						<li class="page"><a href="https://yalestc.github.io/reservations" target="_blank" title="Reservations">Reservations</a></li>
+						<li class="page"><a href="https://yalestc.github.io/shifts" target="_blank" title="Shifts">Shifts</a></li>
+						<li class="page"><a href="/previous.html" title="Previous Projects">Previous Projects</a></li>
+						<li class="page"><a href="/resources.html" title="Resources for Programmers">Resources</a></li>
+					</ul>
+				</nav>
+			</div><!-- unit-inner -->
+		</div><!-- unit-head -->
+	</header>
+	<div class="body" role="main">
+		<div class="unit-body">
+			<div class="unit-inner unit-body-inner">
+				<div class="entry-content">
+					
+<article class="unit-article layout-page">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">Resources for Programmers</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+
+			<div class="bd">
+				<div class="entry-content">
+					<h2 id="quick_reference">Quick Reference</h2>
+
+<ul>
+<li><a href="http://dochub.io/">DocHub.io</a> - docs of functions and methods for CSS, JavaScript, jQuery, DOM, HTML, PHP, and Python.</li>
+</ul>
+
+<h2 id="apis">APIs</h2>
+
+<ul>
+<li>http://www.codecademy.com/tracks/apis</li>
+</ul>
+
+<h2 id="command_line__terminal">Command line / Terminal</h2>
+
+<ul>
+<li><a href="http://cli.learncodethehardway.org/book/">Learn the Command Line the Hard Way</a> - a somewhat long, but complete (exercise-heavy) guide to using the command line. If you’re not already comfortable with the command line, you should do this. If you’re comfortable with the command line, you should still probably do this.</li>
+
+<li>Customizing
+<ul>
+<li>OS X’s Terminal application has a lot of configurable settings under Preferences.</li>
+
+<li><a href="https://github.com/YaleSTC/wiki/wiki/Dotfiles">Dotfiles</a> can help make your command prompt beautiful.</li>
+</ul>
+</li>
+</ul>
+
+<h2 id="databases">Databases</h2>
+
+<ul>
+<li><a href="http://sql.learncodethehardway.org/book/">Learn SQL The Hard Way</a> -</li>
+
+<li><a href="http://adamsanderson.github.io/railsconf_2013/?full#1">Postgres, the Best Tool You’re Already Using</a></li>
+
+<li><a href="http://www.codinghorror.com/blog/2007/10/a-visual-explanation-of-sql-joins.html">Visual Explanation of SQL Joins</a></li>
+</ul>
+
+<h3 id="supplementary">Supplementary</h3>
+
+<ul>
+<li><a href="http://use-the-index-luke.com">Use the Index, Luke! (SQL Tuning and Indexing)</a> - An in-depth guide to how indexes work in SQL DBs, more of an advanced topic, but it’s really interesting.</li>
+</ul>
+
+<h2 id="git">Git</h2>
+
+<ul>
+<li><a href="http://www.codeschool.com/courses/try-git">Try Git</a> - A great interactive intro to git. Start here.</li>
+
+<li><a href="http://gitimmersion.com/">Git Immersion</a> - A great next step to take what you learned in ‘Try Git’ and apply it to your own computer.</li>
+
+<li><a href="http://git-scm.com/book">Pro Git</a> - <em>the</em> reference book for git.</li>
+
+<li><a href="http://ftp.newartisans.com/pub/git.from.bottom.up.pdf">Git from the Bottom Up</a> (pdf)</li>
+
+<li><a href="http://nvie.com/posts/a-successful-git-branching-model/">Git branching model</a></li>
+
+<li><a href="http://ndpsoftware.com/git-cheatsheet.html">Git Visual Cheatsheet</a> - great for reference while you’re coding (“what’s that command again?”)</li>
+</ul>
+
+<h3 id="create_and_sync_a_local_branch_with_github">Create and sync a local branch with Github</h3>
+
+<p><em>The following commands create both a remote and local branch with tracking between them and check out the local branch. Make sure your base branch is up-to-date!</em></p>
+
+<pre><code>
+git push origin [BASE_BRANCH]:refs/heads/[NEW_BRANCH_NAME]
+git fetch origin
+git branch --track [NEW_BRANCH_NAME] origin/[NEW_BRANCH_NAME]
+git checkout [NEW_BRANCH_NAME]
+</code></pre>
+
+<p>For example:</p>
+
+<pre><code>
+git push origin development:refs/heads/404_branch_not_found
+git fetch origin
+git branch --track 404_branch_not_found origin/404_branch_not_found
+git checkout 404_branch_not_found
+</code></pre>
+
+<h2 id="html__css">HTML &amp; CSS</h2>
+
+<ul>
+<li><a href="http://learn.shayhowe.com">A Practical Guide to HTML &amp; CSS</a> - A fantastic and relatively complete introduction to HTML &amp; CSS</li>
+
+<li><a href="http://www.w3schools.com/html/default.asp">W3Schools HTML Tutorials</a> and <a href="http://www.w3schools.com/css/default.asp">CSS Tutorials</a> - The canonical and definitive resource for HTML/CSS. Not the clearest source, but still valuable.</li>
+</ul>
+
+<h3 id="supplementary_2">Supplementary</h3>
+
+<ul>
+<li><a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">How Browsers Work</a></li>
+
+<li><a href="http://learnlayout.com/">CSS Layout Overview - LearnLayout.com</a></li>
+
+<li><a href="http://alistapart.com/article/css-positioning-101">CSS Positioning 101</a></li>
+
+<li><a href="http://alistapart.com/article/css-floats-101">CSS Floats 101</a></li>
+
+<li><a href="http://css-tricks.com/the-css-overflow-property/">CSS Overflow</a> and <a href="http://css-tricks.com/all-about-floats/">CSS Floats</a></li>
+
+<li><a href="http://www.barelyfitz.com/screencast/html-training/css/positioning/">Learn CSS Positioning in Ten Steps: position static relative absolute float</a> - a bit outdated, but still interesting</li>
+
+<li><a href="http://www.w3.org/Style/Examples/007/center.en.html">Centering in CSS</a></li>
+
+<li><a href="http://dustwell.com/div-span-inline-block.html">Span vs Div &amp; Inline vs Block</a></li>
+
+<li><a href="http://www.w3.org/TR/CSS2/selector.html#child-selectors">Child Selectors</a> vs <a href="http://www.w3.org/TR/CSS2/selector.html#descendant-selectors">Descendant Selectors</a></li>
+
+<li><a href="http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048">TutsPlus 30 CSS Selectors You Must Memorize</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<h3 id="books">Books</h3>
+
+<ul>
+<li><a href="http://www.amazon.com/dp/0596517742/?tag=stackoverfl08-20">JS the good parts</a></li>
+
+<li><a href="http://eloquentjavascript.net/contents.html">Eloquent JavaScript - Intro to JS</a></li>
+</ul>
+
+<h3 id="interactive">Interactive</h3>
+
+<ul>
+<li><a href="http://www.codecademy.com/tracks/javascript">CodeSchool</a></li>
+
+<li><a href="http://www.codecademy.com/tracks/javascript">Code Academy</a></li>
+</ul>
+
+<h3 id="reference">Reference</h3>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en/docs/JavaScript">Mozilla Reference - Lots of good links</a></li>
+
+<li><a href="https://developer.mozilla.org/en-US/docs/JavaScript/A_re-introduction_to_JavaScript?redirectlocale=en-US&redirectslug=A_re-introduction_to_JavaScript">Reintroduction to JS</a></li>
+
+<li><a href="http://superherojs.com">Superhero JS - Advanced JS Articles</a></li>
+</ul>
+
+<h3 id="videos">Videos</h3>
+
+<ul>
+<li><a href="http://yuiblog.com/crockford/">Crockford on JS - Video Lecture Series</a></li>
+</ul>
+
+<h2 id="rails">Rails</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=3mQjtk2YDkM">Model View Controller (Lynda)</a></li>
+
+<li><a href="http://www.amazon.com/Agile-Web-Development-Rails-Programmers/dp/097669400X">Agile Web Development with Rails, 4th Ed</a>
+<ul>
+<li>Available in the STC Developers Library</li>
+</ul>
+</li>
+
+<li><a href="http://railscasts.com">RailsCasts</a></li>
+
+<li><a href="http://guides.rubyonrails.org/getting_started.html">Getting Started with Rails</a></li>
+
+<li><a href="http://www.codeschool.com/courses/rails-for-zombies-redux">Rails for Zombies</a> (Also see part 2)</li>
+</ul>
+
+<h3 id="directory_structure">Directory structure</h3>
+
+<ul>
+<li><a href="https://www.codeschool.com/code_tv/rails-anatomy">Rails Anatomy</a></li>
+
+<li><a href="http://blog.codeclimate.com/blog/2012/02/07/what-code-goes-in-the-lib-directory/">What code goes in the lib/ directory?</a></li>
+</ul>
+
+<h3 id="debugging">Debugging</h3>
+
+<ul>
+<li><a href="http://www.jackkinsella.ie/2014/06/06/a-comprehensive-guide-to-debugging-rails.html">A Comprehensive Guide to Debugging Rails</a></li>
+</ul>
+
+<h3 id="testing">Testing</h3>
+
+<ul>
+<li><a href="http://www.justinweiss.com/blog/2014/06/02/how-to-learn-tdd-without-getting-overwhelmed/">Learn TDD Without Getting Overwhelmed</a></li>
+
+<li><a href="http://blog.teamtreehouse.com/an-introduction-to-rspec">Team Treehouse’s Intro to RSpec</a></li>
+
+<li><a href="pragprog.com/book/achbd/the-rspec-book‎">The RSpec Book</a>
+<ul>
+<li>In STC Developer Library</li>
+</ul>
+</li>
+
+<li><a href="http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297">TutsPlus RSpec</a></li>
+
+<li><a href="testfirst.org/learn_ruby">TestFirst</a></li>
+</ul>
+
+<h3 id="advanced">Advanced</h3>
+
+<ul>
+<li><a href="http://chrismccord.com/blog/2013/04/21/sync-realtime-rails-partials/">Sync - Realtime Rails Partials - chrismccord</a></li>
+
+<li><a href="http://www.devmynd.com/blog/2013-3-effective-rails-part-2-hiding-activerecord?utm_source=rubyweekly&utm_medium=email">DevMynd - Effective Rails - Part 2 - Hiding ActiveRecord</a></li>
+</ul>
+
+<h2 id="ruby">Ruby</h2>
+
+<h3 id="core_content">Core Content</h3>
+
+<ul>
+<li><a href="http://pine.fm/LearnToProgram/">Learn to Program (Chris Pine)</a> - Great into to programming in general, that uses the Ruby Language. Suitable for beginners, intermediates may get something out of it as well. It’s very thorough and clear, building from the bottom up. Also in STC Developer Library.</li>
+
+<li><a href="http://mislav.uniqpath.com/poignant-guide/book/">Why’s Poignant Guide</a> - Quirky Intro to Ruby (Comic?)
+<ul>
+<li>Some ruby has changed, like hash notation</li>
+</ul>
+</li>
+
+<li><a href="http://www.rubyist.net/~slagell/ruby/">Matz’ Ruby User’s Guide</a> - lots of examples to illustrate points, good table of contents</li>
+
+<li><a href="http://www.humblelittlerubybook.com/">Humble Little Ruby Book</a></li>
+</ul>
+
+<h3 id="interactive_handson">Interactive, Hands-On</h3>
+
+<ul>
+<li><a href="tryruby.com">Try Ruby</a> - a quick whirlwind introduction to things that exist in Ruby. Hard to learn Ruby from this but it’s good to quickly see what Ruby exists.</li>
+
+<li><a href="http://www.rubymonk.com/">Ruby Monk</a> - a full intro to ruby book with interactive examples. Not as good of a starting point as Chris Pine’s LearnToProgram, but a wonderful second resource.</li>
+
+<li><a href="http://rubykoans.com">Ruby Koans</a> - a thorough test-driven walkthrough of most of Ruby’s features. You’d learn soo much about Ruby after doing this, but it’s only useful after having programmed using Ruby already.</li>
+</ul>
+
+<h3 id="for_purchase">For Purchase</h3>
+
+<ul>
+<li><a href="http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0">Programming Ruby (The Pickaxe Book)</a>
+<ul>
+<li>Also in STC Developer Library</li>
+</ul>
+</li>
+
+<li><a href="http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104">Eloquent Ruby</a></li>
+
+<li><a href="http://www.codecademy.com/tracks/ruby">CodeAcademy - Ruby</a></li>
+</ul>
+
+<h3 id="iterators">Iterators</h3>
+
+<ul>
+<li><a href="http://www.skorks.com/2009/09/a-wealth-of-ruby-loops-and-iterators/">Loops &amp; Iterators</a></li>
+
+<li><a href="http://matthewcarriere.com/2008/06/23/using-select-reject-collect-inject-and-detect/">Select, Reject, Collect, Inject, Detect</a></li>
+</ul>
+
+<h3 id="exceptions__error_handling">Exceptions &amp; Error Handling</h3>
+
+<ul>
+<li><a href="http://rubylearning.com/satishtalim/ruby_exceptions.html">Ruby Exceptions - RubyLearning</a></li>
+
+<li><a href="http://ruby.bastardsbook.com/chapters/exception-handling/">Ruby Exceptions - Bastard’s Book</a></li>
+</ul>
+
+<h3 id="cheat_sheets">Cheat Sheets</h3>
+
+<ul>
+<li><a href="http://www.zenspider.com/Languages/Ruby/QuickRef.html">ZenSpider’s Cheat Sheet</a></li>
+
+<li><a href="http://learnxinyminutes.com/docs/ruby/">Learn Ruby in Y Minutes</a></li>
+</ul>
+
+<h3 id="refactoring">Refactoring</h3>
+
+<ul>
+<li><a href="http://sourcemaking.com/refactoring/">SourceMaking’s Refactoring Guide</a></li>
+</ul>
+
+<h3 id="other">Other</h3>
+
+<ul>
+<li><a href="http://glu.ttono.us/articles/2005/08/19/understanding-ruby-symbols">Understanding Ruby Symbols</a></li>
+</ul>
+
+<h2 id="sinatra">Sinatra</h2>
+
+<ul>
+<li><a href="http://sinatra.restafari.org/book.html">Sinatra Restafari Book</a></li>
+
+<li><a href="http://www.christopher-wood.com/papers/RailsSinatraComparison.pdf">Rails Sinatra Comparison PDF</a></li>
+</ul>
+
+<h2 id="web_app_basics_ruby">Web app basics (Ruby)</h2>
+
+<ul>
+<li><a href="http://mkcohen.com/how-the-web-works-in-one-easy-lesson">How The Web Works Overview</a></li>
+
+<li><a href="http://www.jmarshall.com/easy/http/#whatis">What are HTTP Requests</a></li>
+
+<li><a href="http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340">A Beginner’s Guide to HTTP and REST</a></li>
+
+<li><a href="http://dablog.rubypal.com/2008/11/24/restful-rails-for-the-restless">How HTTP Requests relates to Rails</a></li>
+
+<li><a href="http://rubylearning.com/blog/a-quick-introduction-to-rack/">Quick Introduction To Rack</a> - The top two sections about what it is are useful; knowing how to use it directly isn’t at this point.</li>
+
+<li><a href="https://gist.github.com/mattetti/1447058">Very basic rack application example</a></li>
+</ul>
+
+<h3 id="routes">Routes</h3>
+
+<ul>
+<li><a href="http://en.wikibooks.org/wiki/Ruby_on_Rails/Routing#RESTful_routes">Wikibooks - Short Rundown</a></li>
+
+<li><a href="http://b-simple.de/download/restful_rails_en.pdf">Restful Rails (advanced)</a></li>
+</ul>
+
+<h3 id="erb">ERB</h3>
+
+<ul>
+<li><a href="http://www.stuartellis.eu/articles/erb/">Stuart Ellis’ Guide to .erb</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<h3 id="documentation">Documentation</h3>
+
+<ul>
+<li><a href="http://jacobian.org/writing/great-documentation/">Writing great documentation</a></li>
+</ul>
+
+<h3 id="optimization">Optimization</h3>
+
+<ul>
+<li><a href="https://coderwall.com/p/_g2vpq">Evan Travers : Workflow in Tmux</a></li>
+</ul>
+
+<h3 id="pair_programming">Pair Programming</h3>
+
+<ul>
+<li>http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/</li>
+
+<li>http://realsearchgroup.org/pairlearning/educators.php</li>
+
+<li>https://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning</li>
+
+<li>https://github.com/nlloyd/SubliminalCollaborator</li>
+</ul>
+
+<h3 id="regular_expressions">Regular Expressions</h3>
+
+<ul>
+<li>An interactive RegEx Tutorial http://regexone.com/</li>
+
+<li>The canonical RegEx reference http://www.regular-expressions.info</li>
+
+<li>Regular expression testers make writing regexes wayyy faster.
+<ul>
+<li>Ruby: http://rubular.com</li>
+
+<li>JavaScript: http://regexpal.com/</li>
+</ul>
+</li>
+
+<li><a href="http://robots.thoughtbot.com/back-to-basics-regular-expressions">Thoughtbot Regular Expressions</a></li>
+</ul>
+
+<h3 id="screencasts">Screencasts</h3>
+
+<ul>
+<li><a href="https://www.destroyallsoftware.com/screencasts">Destroy All Software Screencasts</a></li>
+</ul>
+
+<h3 id="ui">UI</h3>
+
+<ul>
+<li><a href="http://www.37signals.com/svn/posts/1681-the-method-still-works">The method still works - (37signals) UI Design</a> User Interface / User Design / User Experience / Human Computer Interaction</li>
+
+<li>http://hci-class.org - excellent online course. It’s definitely worth watching the first couple (3?) of weeks’ lectures at least. (You can watch lectures if you click “preview course” even if you don’t sign up [although its free and riskless to sign up and keep track of your progress].)</li>
+
+<li>http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals - A good online resource that goes through design fundamentals.</li>
+</ul>
+
+<h3 id="other_2">Other</h3>
+
+<ul>
+<li><a href="http://www.joelonsoftware.com/items/2009/03/09.html">How to be a program manager - Joel on Software</a></li>
+
+<li><a href="http://devcheatsheet.com/">Cheat Sheets</a></li>
+</ul>
+				</div><!-- entry-content -->
+			</div><!-- bd -->
+
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
+
+				</div>
+			</div><!-- unit-inner -->
+		</div><!-- unit-body -->
+	</div><!-- body -->
+	<footer class="the-footer">
+		<div class="unit-foot">
+			<div class="unit-inner unit-foot-inner">
+				<div class="misc vcard">
+					<h4>Related Sites</h4>
+					<ul>
+						<li><a href="http://yale.edu/stc">STC Website</a></li>
+					</ul>
+				</div><!-- misc -->
+				<p class="licence">
+					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+				</p>
+			</div><!-- unit-foot-inner -->
+		</div><!-- unit-foot -->
+	</footer>
+</div><!-- page -->
+<script>
+	(function(d, s) {
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.src = url; js.id = id;
+		fjs.parentNode.insertBefore(js, fjs);
+		};
+	load('//platform.twitter.com/widgets.js', 'tweetjs');
+	// load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
+	// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="/resources.html" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+	}(document, 'script'));
+</script>
+<script>
+/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
+(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+  
+  
+</body>
+</html>
+

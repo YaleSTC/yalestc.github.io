@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Student Developer
-tagline: And Mentorship Program
+title: Previous Developer Projects
+tagline: 
 ---
 {% include JB/setup %}
 

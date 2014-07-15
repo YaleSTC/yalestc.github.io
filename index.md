@@ -7,11 +7,11 @@ tagline:
  
 ###About
  
-Motivated by the strong interest among Yale students to build applications, the Student Developer Program was launched in the Fall of 2012. The program is part of the Student Technology Collaborative (STC), and has three core goals: teach interested students how to develop software, hire students to develop software, and support the broader student developer community.
+Motivated by the strong interest among Yale students to build applications, the Student Developer Program was launched in the Fall of 2012. The program is part of ITS Campus Community Technologies (CCT), and has three core goals: teach interested students how to develop software, hire students to develop software, and support the broader student developer community.
  
 ###Teaching
  
-The Student Developer Program currently offers a core course in Web Developing with Ruby on Rails. This course is taught on a semester basis, and covers the basics of building web applications using Ruby on Rails.
+The Student Developer Program currently offers a core course in web developing with Ruby on Rails. This course is taught on a semester basis, and covers the basics of building web applications using Ruby on Rails.
  
 Additionally, we offer a number of workshops each semester, on a variety of topics (including Ruby on Rails, iOS Development, and more).
  

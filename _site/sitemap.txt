@@ -5,7 +5,6 @@ http://yalestc.github.io/rss.xml
 http://yalestc.github.io/atom.xml
 http://yalestc.github.io/index.html
 http://yalestc.github.io/tags.html
-http://yalestc.github.io/about.html
 http://yalestc.github.io/pages.html
 http://yalestc.github.io/sitemap.txt
 http://yalestc.github.io/archive.html

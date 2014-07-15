@@ -5,7 +5,7 @@ tagline: And Mentorship Program
 ---
 {% include JB/setup %}
 
-The Yale Student Developers program began under the umbrella of the [Student Technology Collaborative](http://www.yale.edu/stc). It wasn't until 2014 that the Developers Program moved to its current home with Campus Community Technologies and began its rigorous development program with iOS and Android development, in addition to its long-standing Ruby on Rails applications.
+The Yale Student Developers program began under the umbrella of the [Student Technology Collaborative](http://www.yale.edu/stc). It wasn't until 2014 that the Developers Program moved to its current home with Campus Community Technologies and began its rigorous development program with iOS and Android development, in addition to its long-standing Ruby on Rails program.
 
 While the Developers Program's flagship apps have historically been [Reservations](https://github.com/YaleSTC/reservations) and [Shifts](https://github.com/YaleSTC/shifts), the program has touched many products over the years. For example:
 
@@ -31,7 +31,7 @@ We also have the following small applications, mainly for STC internal use:
 - [Mailman Roster](https://github.com/YaleSTC/mailman_roster)
   - This app syncs a roster of STs with their college and queue mailman lists.
 
-The following projects are no-longer actively developed or maintained and have available repos for historical purposes only:
+The following projects are no-longer actively developed or maintained, and have available repos for historical purposes only:
 
 - [Course Placement Management](https://github.com/YaleSTC/course_placement_management)
   - This app was written for the Yale math department course placement process. It is no longer maintained.

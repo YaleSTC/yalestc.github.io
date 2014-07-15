@@ -22,6 +22,8 @@ There are many great text editors for software development. We recommend [Sublim
 ## Rails
 *For OS-specific information to jump right in to the setup process, please see the [GoRails Setup Guide](https://gorails.com/setup).*
 
+Windows users should seriously consider [setting up Ubuntu Linux in VirtualBox](http://www.wikihow.com/Install-Ubuntu-on-VirtualBox); it will be easier that way.
+
 ### MySQL
 The database backend we use for Rails is called **MySQL**. The database stores information for web apps which can be used in the future, i.e., it is persistent storage (not a temporary cache).
 

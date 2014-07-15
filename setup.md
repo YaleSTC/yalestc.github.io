@@ -20,7 +20,7 @@ Next, follow the [GitHub setup guide](https://help.github.com/articles/set-up-gi
 There are many great text editors for software development. We recommend [SublimeText](http://www.sublimetext.com/3), [Atom](https://atom.io/), or [Vim](http://www.vim.org/).
 
 ## Rails
-*For OS-specific information to jump right in to the setup process, please see the [GoRails Setup Guide](https://gorails.com/setup).*
+*For OS-specific information to jump right in to the setup process, please see the [GoRails Setup Guide](https://gorails.com/setup). Mac users should consult [our documentation](https://github.com/YaleSTC/wiki/wiki/Setting-Up-Your-Development-Environment-%28OS-X%29) in case errors are encountered.*
 
 Windows users should seriously consider [setting up Ubuntu Linux in VirtualBox](http://www.wikihow.com/Install-Ubuntu-on-VirtualBox); it will be easier that way.
 

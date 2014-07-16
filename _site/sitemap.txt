@@ -3,11 +3,13 @@ http://yalestc.github.io/jobs.html
 http://yalestc.github.io/previous.html
 http://yalestc.github.io/categories.html
 http://yalestc.github.io/setup.html
+http://yalestc.github.io/apply.html
 http://yalestc.github.io/rss.xml
 http://yalestc.github.io/atom.xml
 http://yalestc.github.io/index.html
 http://yalestc.github.io/tags.html
 http://yalestc.github.io/resources.html
 http://yalestc.github.io/pages.html
+http://yalestc.github.io/contact.html
 http://yalestc.github.io/sitemap.txt
 http://yalestc.github.io/archive.html

@@ -6,10 +6,10 @@ tagline:
 {% include JB/setup %}
 
 ## Overview
-* Project Manager
-* Ruby on Rails, iOS, or Android Developer
-* Ruby on Rails course TA
-* User Experience
+* [Project Manager](/jobs/projectmanager.html)
+* [Ruby on Rails, iOS, or Android Developer](/jobs/developer.html)
+* [Ruby on Rails course TA](/jobs/coursta.html)
+* [User Experience Designer](/jobs/uxdesigner.html)
 
 ### General Perks (all roles)
 * Get paid to learn applicable, real-world skills, and marketable modern-day technologies

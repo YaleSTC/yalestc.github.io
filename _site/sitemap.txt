@@ -9,6 +9,10 @@ http://yalestc.github.io/atom.xml
 http://yalestc.github.io/index.html
 http://yalestc.github.io/tags.html
 http://yalestc.github.io/resources.html
+http://yalestc.github.io/jobs/courseta.html
+http://yalestc.github.io/jobs/uxdesigner.html
+http://yalestc.github.io/jobs/projectmanager.html
+http://yalestc.github.io/jobs/developer.html
 http://yalestc.github.io/pages.html
 http://yalestc.github.io/contact.html
 http://yalestc.github.io/sitemap.txt

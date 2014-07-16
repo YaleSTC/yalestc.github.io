@@ -1,4 +1,5 @@
 
+http://yalestc.github.io/jobs.html
 http://yalestc.github.io/previous.html
 http://yalestc.github.io/categories.html
 http://yalestc.github.io/setup.html

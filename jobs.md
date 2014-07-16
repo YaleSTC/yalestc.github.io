@@ -19,6 +19,9 @@ The Technical Lead is responsible for determining the feasibility of implementin
 ### Developers
 Developers work under the Technical Lead and Project Manager and are responsible for writing code. Coding should be primarily done in pairs or together as a group, not solo, and good team skills are essential.
 
+### Designers (four)
+Designers help the developer teams with the design of their software. UX and graphic design are very important parts of every successful application.
+
 ## Teaching
 The Developer Program offers a Ruby on Rails training course, not-for-credit, each semester. Positions are available to make this happen.
 
@@ -40,6 +43,3 @@ Community Consultants are experienced developers who:
 * hold Office Hours (and/or Hacknights?) for the community;
 * help Yale developer community members decide what technologies / packages to use to meet their needs; and
 * help connect community members to the resources they need.
-
-### Designers (four)
-Designers help the developer teams with the design of their software. UX and graphic design are very important parts of every successful application.

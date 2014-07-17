@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Resources for Programmers
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 ## Quick Reference
 * [DocHub.io](http://dochub.io/) - docs of functions and methods for CSS, JavaScript, jQuery, DOM, HTML, PHP, and Python.

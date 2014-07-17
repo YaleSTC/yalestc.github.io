@@ -1,9 +1,8 @@
 ---
 layout: page
 title: How to Apply
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 ## Overview
 * [Project Manager](/jobs/projectmanager.html)
@@ -18,7 +17,7 @@ tagline:
 * Learn skills for your next startup or job
 * Mentorship from professional developers
 * Collaborate with a community of developers
-* Free Snacks 
+* Free Snacks
 
 ### General Requirements (all roles)
 * Good communication skills
@@ -26,7 +25,7 @@ tagline:
 * Desire to make life better for the Yale community
 * Willingness to learn and collaborate with teammates
 * Availability to work minimum 10hrs/week
-* Some programming background (at least one language) 
+* Some programming background (at least one language)
 
 ## Application process (all roles)
 Email the following to our Box folder [TODO: add link] by midnight, July 27th. Name your files in the format LastnameFile (ex: HamiltonResume)

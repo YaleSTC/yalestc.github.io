@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Previous Developer Projects
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 The Yale Student Developers program began under the umbrella of the [Student Technology Collaborative](http://www.yale.edu/stc). It wasn't until 2014 that the Developers Program moved to its current home with Campus Community Technologies and began its rigorous development program with iOS and Android development, in addition to its long-standing Ruby on Rails program.
 

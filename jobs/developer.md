@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Developer job description
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 ## Developer
 Developers write code and make the world a better place.
@@ -37,7 +36,7 @@ Developers write code and make the world a better place.
 * general requirements (on previous page)
 * preferred at least 2 computer science courses or the equivalent (ex: CPSC 201 + CPSC 223)
 * pnterest to learn coding and experiment
-* self motivation  
+* self motivation
 * background in Java, at least working knowledge
 * prefered previous Android development experience
 

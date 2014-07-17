@@ -1,9 +1,8 @@
 ---
 layout: page
 title: User Experience designer job description
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 ## User Experience
 User Experience designers work with the developer teams to improve and develop the user experience of applications related to student life and the university.

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Project Manager job description
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 ## Project Manager
 Project manager each manage a team of student developers as they develop, test, and maintain applications related to student life and the university.

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Course TA job description
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 ## Ruby on Rails Course TA
 Course TAs work with the lead instructor to instruct and assist students enrolled in the "Yalies on Rails" course.

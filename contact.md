@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Contact Us
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 ### Program Management
 For questions relating to the Student Developer Program, please send an email to [dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).

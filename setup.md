@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Set up your Dev Environment
-tagline: 
+tagline:
 ---
-{% include JB/setup %}
 
 *This page provides setup information to get you up and running for Rails, Android, and iOS development.*
 

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Set up your Dev Environment
+title: Setting Up Your Dev Environment
 tagline:
+sidebar_title: Setup
 in_sidebar?: true
 ---
 

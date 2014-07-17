@@ -2,6 +2,7 @@
 layout: page
 title: Resources for Programmers
 tagline:
+sidebar_title: Resources
 in_sidebar?: true
 ---
 

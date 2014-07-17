@@ -2,6 +2,7 @@
 layout: page
 title: Job Opportunities
 tagline:
+in_sidebar?: true
 ---
 
 The Student Developer Program operates in two main wings: software development, and teaching. Student positions are available in both departments. All student employees report to Casey Watts and Jemin Lee ([dev-mgt@yale.edu](mailto:dev-mgt@yale.edu)).

@@ -3,6 +3,7 @@ layout: page
 title: Yale Student Developer Program
 tagline:
 sidebar_title: Home
+in_sidebar?: true
 ---
 
 ###About

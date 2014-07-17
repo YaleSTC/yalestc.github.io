@@ -2,6 +2,7 @@
 layout: page
 title: Set up your Dev Environment
 tagline:
+in_sidebar?: true
 ---
 
 *This page provides setup information to get you up and running for Rails, Android, and iOS development.*

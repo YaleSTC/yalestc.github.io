@@ -2,6 +2,7 @@
 layout: page
 title: Contact Us
 tagline:
+in_sidebar?: true
 ---
 
 ### Program Management

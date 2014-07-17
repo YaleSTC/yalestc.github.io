@@ -2,6 +2,7 @@
 layout: page
 title: Resources for Programmers
 tagline:
+in_sidebar?: true
 ---
 
 ## Quick Reference

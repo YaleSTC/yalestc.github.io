@@ -2,6 +2,7 @@
 layout: page
 title: Previous Developer Projects
 tagline:
+sidebar_title: Previous Projects
 in_sidebar?: true
 ---
 

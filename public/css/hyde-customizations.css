@@ -7,3 +7,7 @@
   font-family: "Roboto Slab", "PT Sans", serif;
   font-size: 3rem;
 }
+
+.sidebar-about h1 a:hover {
+  text-decoration: none;
+}

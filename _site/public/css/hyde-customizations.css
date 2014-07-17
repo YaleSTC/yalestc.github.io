@@ -3,6 +3,7 @@
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
+  font-weight: 400;
   font-family: "Roboto Slab", "PT Sans", serif;
   font-size: 3rem;
 }

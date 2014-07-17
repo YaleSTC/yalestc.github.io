@@ -2,7 +2,7 @@
 layout: page
 title: How to Apply
 tagline:
-nav_title: Apply
+sidebar_title: Apply
 ---
 
 ## Overview

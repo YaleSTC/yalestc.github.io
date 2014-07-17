@@ -11,3 +11,12 @@
 .sidebar-about h1 a:hover {
   text-decoration: none;
 }
+
+/* Yale Theme */
+.theme-base-yale .sidebar {
+  background-color: #00346a;
+}
+.theme-base-yale .content a,
+.theme-base-yale .related-posts li a:hover {
+  color: #00346a;
+}

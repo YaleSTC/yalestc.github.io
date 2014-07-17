@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Yale Student Developer
-tagline: &tagline and Mentorship Program
+title : Yale Student Developers
+tagline: &tagline Yale Student Developer & Mentorship Program
 description: *tagline
 author :
   name : Casey Watts

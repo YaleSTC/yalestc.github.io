@@ -19,15 +19,15 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            {% if node.sidebar_title != null %}
-              <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-                <a href="{{ node.url }}">{{ node.sidebar_title }}</a>
-              </li>
-            {% else %}
-              <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-                <a href="{{ node.url }}">{{ node.title }}</a>
-              </li>
-            {% endif %}
+            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+              <a href="{{ node.url }}">
+                {% if node.sidebar_title != null %}
+                  {{ node.sidebar_title }}
+                {% else %}
+                  {{ node.title }}
+                {% endif %}
+              </a>
+            </li>
           {% endif %}
         {% endif %}
       {% endfor %}

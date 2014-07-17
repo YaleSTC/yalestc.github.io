@@ -2,7 +2,6 @@
 layout: page
 title: How to Apply
 tagline:
-sidebar_title: Apply
 in_sidebar?: true
 ---
 

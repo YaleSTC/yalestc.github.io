@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Student Developer Program
+title: Home
 tagline:
+sidebar_title:
 ---
 
 ###About

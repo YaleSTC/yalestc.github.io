@@ -1,0 +1,8 @@
+/* Yale STC Customizations on the Hyde theme by @mdo */
+/* About section */
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "Roboto Slab", "PT Sans", serif;
+  font-size: 3rem;
+}

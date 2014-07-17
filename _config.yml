@@ -9,7 +9,8 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Student Developer
-tagline: and Mentorship Program
+tagline: &tagline and Mentorship Program
+description: *tagline
 author :
   name : Casey Watts
   email : dev-mgt@yale.edu

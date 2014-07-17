@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Home
+title: Yale Student Developer Program
 tagline:
-sidebar_title:
+sidebar_title: Home
 ---
 
 ###About

@@ -34,7 +34,7 @@ You may use MySQL 5.x, or the open source fork MariaDB version 5.x. Do not use M
 We use [rbenv](https://github.com/sstephenson/rbenv) to install Ruby, as it allows us to define specific versions of Ruby for use within each project (as opposed to one, "global" version of Ruby which every app has to use). You can follow [this guide](https://gorails.com/setup) to set up Rails quickly.
 
 ## Android
-...[stub]...
+TBA
 
 ## iOS
-...[stub]...
+TBA

@@ -29,7 +29,7 @@ in_sidebar?: true
 * Some programming background (at least one language)
 
 ## Application process (all roles)
-Email the following to our Box folder [TODO: add link] by midnight, July 27th. Name your files in the format LastnameFile (ex: HamiltonResume)
+Email the following to our Box folder \[TODO: add link\] by midnight, July 27th. Name your files in the format LastnameFile (ex: HamiltonResume)
 * a resume
 * cover letter (include relevant coursework / other experience)
 * two samples of your work

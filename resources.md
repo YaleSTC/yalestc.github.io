@@ -195,7 +195,7 @@ git checkout 404_branch_not_found
 ### UI
 * [The method still works - (37signals) UI Design](http://www.37signals.com/svn/posts/1681-the-method-still-works)
 User Interface / User Design / User Experience / Human Computer Interaction
-* http://hci-class.org - excellent online course. It's definitely worth watching the first couple (3?) of weeks' lectures at least. (You can watch lectures if you click "preview course" even if you don't sign up [although it's free and riskless to sign up and keep track of your progress].)
+* http://hci-class.org - excellent online course. It's definitely worth watching the first couple (3?) of weeks' lectures at least. (You can watch lectures if you click "preview course" even if you don't sign up \[although it's free and riskless to sign up and keep track of your progress\].)
 * http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals - A good online resource that goes through design fundamentals.
 
 ### Other

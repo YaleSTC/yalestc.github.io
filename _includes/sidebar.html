@@ -15,6 +15,14 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+      {% comment %}
+        jekyll 1.5 doesn't support array sort (??) - this was introduced in
+        jekyll 2. GitHub Pages only runs (a forked version of) 1.5. So, we can't
+        sort these nav links - they're sorted alphabetically by file name and
+        that's that, until GitHub updates their damn gems. See:
+        http://www.leveluplunch.com/blog/2014/04/03/sort-pages-by-title-filter-array-by-layout-jekyllrb/
+      {% endcomment %}
+
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null and node.sidebar_title != "Home" and node.in_sidebar? == true %}

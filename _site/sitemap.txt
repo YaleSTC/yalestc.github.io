@@ -10,6 +10,7 @@ http://yalestc.github.io/jobs/projectmanager.html
 http://yalestc.github.io/jobs/uxdesigner.html
 http://yalestc.github.io/jobs.html
 http://yalestc.github.io/previous.html
+http://yalestc.github.io/projects.html
 http://yalestc.github.io/resources.html
 http://yalestc.github.io/rss.xml
 http://yalestc.github.io/setup.html

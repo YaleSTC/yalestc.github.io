@@ -10,7 +10,7 @@ in_sidebar?: true
 * [DocHub.io](http://dochub.io/) - docs of functions and methods for CSS, JavaScript, jQuery, DOM, HTML, PHP, and Python.
 
 ## APIs
-* http://www.codecademy.com/tracks/apis
+* [Codecademy APIs course](http://www.codecademy.com/tracks/apis)
 
 ## Command line / Terminal
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/) - a somewhat long, but complete (exercise-heavy) guide to using the command line. If you're not already comfortable with the command line, you should do this. If you're comfortable with the command line, you should still probably do this.
@@ -88,10 +88,10 @@ git checkout 404_branch_not_found
 ## Rails
 * [Model View Controller (Lynda)](http://www.youtube.com/watch?v=3mQjtk2YDkM)
 * [Agile Web Development with Rails, 4th Ed](http://www.amazon.com/Agile-Web-Development-Rails-Programmers/dp/097669400X)
-    * Available in the STC Developers Library
+    * available in the Developers Program Library
 * [RailsCasts](http://railscasts.com)
 * [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
-* [Rails for Zombies](http://www.codeschool.com/courses/rails-for-zombies-redux) (Also see part 2)
+* [Rails for Zombies](http://www.codeschool.com/courses/rails-for-zombies-redux) (also see part 2)
 
 ### Directory structure
 * [Rails Anatomy](https://www.codeschool.com/code_tv/rails-anatomy)
@@ -104,7 +104,7 @@ git checkout 404_branch_not_found
 * [Learn TDD Without Getting Overwhelmed](http://www.justinweiss.com/blog/2014/06/02/how-to-learn-tdd-without-getting-overwhelmed/)
 * [Team Treehouse's Intro to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 * [The RSpec Book](pragprog.com/book/achbd/the-rspec-book‎)
-    * In STC Developer Library
+    * available in the Developers Program Library
 * [TutsPlus RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297)
 * [TestFirst](testfirst.org/learn_ruby)
 
@@ -114,7 +114,8 @@ git checkout 404_branch_not_found
 
 ## Ruby
 ### Core Content
-* [Learn to Program (Chris Pine)](http://pine.fm/LearnToProgram/) - Great into to programming in general, that uses the Ruby Language. Suitable for beginners, intermediates may get something out of it as well. It's very thorough and clear, building from the bottom up. Also in STC Developer Library.
+* [Learn to Program (Chris Pine)](http://pine.fm/LearnToProgram/) - Great into to programming in general, that uses the Ruby Language. Suitable for beginners, intermediates may get something out of it as well. It's very thorough and clear, building from the bottom up.
+  * available in the Developers Program Library.
 * [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/) - Quirky Intro to Ruby (Comic?)
   * Some ruby has changed, like hash notation
 * [Matz' Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/) - lots of examples to illustrate points, good table of contents
@@ -127,7 +128,7 @@ git checkout 404_branch_not_found
 
 ### For Purchase
 * [Programming Ruby (The Pickaxe Book)](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
-    * Also in STC Developer Library
+    * available in the Developers Program Library
 * [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104)
 * [CodeAcademy - Ruby](http://www.codecademy.com/tracks/ruby)
 
@@ -158,7 +159,7 @@ git checkout 404_branch_not_found
 * [What are HTTP Requests](http://www.jmarshall.com/easy/http/#whatis)
 * [A Beginner's Guide to HTTP and REST](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
 * [How HTTP Requests relates to Rails](http://dablog.rubypal.com/2008/11/24/restful-rails-for-the-restless)
-* [Quick Introduction To Rack](http://rubylearning.com/blog/a-quick-introduction-to-rack/) - The top two sections about what it is are useful; knowing how to use it directly isn't at this point.
+* [Quick Introduction To Rack](http://rubylearning.com/blog/a-quick-introduction-to-rack/)
 * [Very basic rack application example](https://gist.github.com/mattetti/1447058)
 
 ### Routes
@@ -176,17 +177,17 @@ git checkout 404_branch_not_found
 * [Evan Travers : Workflow in Tmux](https://coderwall.com/p/_g2vpq)
 
 ### Pair Programming
-* http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/
-* http://realsearchgroup.org/pairlearning/educators.php
-* https://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning
-* https://github.com/nlloyd/SubliminalCollaborator
+* [Thoughts on programming](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
+* [Pair learning for educators](http://realsearchgroup.org/pairlearning/educators.php)
+* [The power of pair-programming in collaborative learning](https://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning)
+* [Subliminal Collaborator: SublimeText v2 remote pair-programming plugin](https://github.com/nlloyd/SubliminalCollaborator)
 
 ### Regular Expressions
-- An interactive RegEx Tutorial http://regexone.com/
-- The canonical RegEx reference http://www.regular-expressions.info
+- [An interactive RegEx Tutorial](http://regexone.com/)
+- [The canonical RegEx reference](http://www.regular-expressions.info)
 - Regular expression testers make writing regexes wayyy faster.
-  - Ruby: http://rubular.com
-  - JavaScript: http://regexpal.com/
+  - Ruby: [Rubular](http://rubular.com)
+  - JavaScript: [RegexPal](http://regexpal.com/)
 - [Thoughtbot Regular Expressions](http://robots.thoughtbot.com/back-to-basics-regular-expressions)
 
 ### Screencasts
@@ -195,8 +196,8 @@ git checkout 404_branch_not_found
 ### UI
 * [The method still works - (37signals) UI Design](http://www.37signals.com/svn/posts/1681-the-method-still-works)
 User Interface / User Design / User Experience / Human Computer Interaction
-* http://hci-class.org - excellent online course. It's definitely worth watching the first couple (3?) of weeks' lectures at least. (You can watch lectures if you click "preview course" even if you don't sign up \[although it's free and riskless to sign up and keep track of your progress\].)
-* http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals - A good online resource that goes through design fundamentals.
+* [HCI Class](http://hci-class.org) - excellent online course. It's definitely worth watching the first couple (3?) of weeks' lectures at least. (You can watch lectures if you click "preview course" even if you don't sign up \[although it's free and riskless to sign up and keep track of your progress\].)
+* [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) - a good online resource which goes through design fundamentals
 
 ### Other
 * [How to be a program manager - Joel on Software](http://www.joelonsoftware.com/items/2009/03/09.html)

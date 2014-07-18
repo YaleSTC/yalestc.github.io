@@ -8,14 +8,16 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Yale Student Developers
+title: Yale Student Developers
 tagline: &tagline Yale Student Developer & Mentorship Program
 description: *tagline
-author :
-  name : Casey Watts
-  email : dev-mgt@yale.edu
-  github : YaleSTC
-  twitter : YaleSTC
+author:
+  name:
+    - Machiste N. Quintana
+    - Casey Watts
+  email: dev-mgt@yale.edu
+  github: YaleSTC
+  twitter: YaleSTC
   # feedburner :
 
 # The production_url is only used when full-domain names are needed
@@ -26,4 +28,4 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://yalestc.github.io
+production_url: http://yalestc.github.io

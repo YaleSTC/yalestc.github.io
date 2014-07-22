@@ -6,9 +6,9 @@ http://yalestc.github.io/contact.html
 http://yalestc.github.io/index.html
 http://yalestc.github.io/jobs/courseta.html
 http://yalestc.github.io/jobs/developer.html
+http://yalestc.github.io/jobs/index.html
 http://yalestc.github.io/jobs/projectmanager.html
 http://yalestc.github.io/jobs/uxdesigner.html
-http://yalestc.github.io/jobs.html
 http://yalestc.github.io/previous.html
 http://yalestc.github.io/projects.html
 http://yalestc.github.io/resources.html

@@ -8,7 +8,7 @@ in_sidebar?: true
 ## Perks & Requirements
 
 ### Roles
-See a description of each role on [Job Opportunities](/jobs.html). Each role has its own specific responsibilities, requirements, and perks in addition to the ones below.
+See a description of each role on [Job Opportunities](/jobs/index.html). Each role has its own specific responsibilities, requirements, and perks in addition to the ones below.
 
 ### General Perks (all roles)
 * Get paid to learn applicable, real-world skills, and marketable modern-day technologies

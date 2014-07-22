@@ -22,7 +22,7 @@ Additionally, we offer a number of workshops each semester, on a variety of topi
 
 We offer students the opportunity to work as Student Developers. Student Developers receive on-going training, and get paid to work on software projects related to student life, academics, and other University needs.
 
-- [More about our job opportunities](/jobs/index.html)
+- [More about our roles and job opportunities](/jobs/index.html)
 - [Submit a project idea](http://its.yale.edu/centers/student-technology-collaborative/student-developer-projects-and-project-proposals)
 
 ###Community

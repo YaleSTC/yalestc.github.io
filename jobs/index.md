@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Job Opportunities
+title: Student Roles
 tagline:
 in_sidebar?: true
 ---

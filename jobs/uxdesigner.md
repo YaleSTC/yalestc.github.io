@@ -13,14 +13,14 @@ User Experience designers work with the developer teams to improve and develop t
 * hold open office hours to talk about how to design software with good design and user experience
 
 ### Perks
-* general perks (see previous page)
+* general perks (see [How to Apply](/apply.html))
 * real-world tech experience, as opposed to merely academic
 * work on projects that will impact the Yale community
 * get paid to learn the ins and outs of software development and to improve poorly designed software
 * append to UX&D portfolio
 
 ### Requirements
-* general requirements (see previous page)
+* general requirements (see [How to Apply](/apply.html))
 * some relevant coursework or independent study
 * experience producing something with your UX&D skills
 * portfolio of projects to showcase

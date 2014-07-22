@@ -12,14 +12,14 @@ Ruby on Rails Course TAs work with the lead instructor to instruct and assist st
 * hold office hours for students enrolled in the course to troubleshoot and offer assistance with assignments (~3 hours per week)
 
 ### Perks
-* general perks (see previous page)
+* general perks (see [How to Apply](/apply.html))
 * get really (really) good at Rails
 * learn how to be a great teacher, writing scaffolded lesson plans, giving effective presentations, helping students learn better
 * experience teaching in a "flipped classroom" environment
 * make a meaningful impact on the lives a large group of students, enrich and engage future developers
 
 ### Requirements
-* general requirements (see previous page)
+* general requirements (see [How to Apply](/apply.html))
 * great communication skills
 * ability to anticipate technical questions
 * experience overcoming technical challenges

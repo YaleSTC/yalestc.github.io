@@ -14,7 +14,7 @@ Developers write code and make the world a better place.
 * testing, refactoring, code quality
 
 ### Perks
-* general perks (on previous page)
+* general perks (see [How to Apply](/apply.html))
 * real-world programming experience, as opposed to academic programming
 * get paid to get better at programing
 * work on projects that affect the Yale community
@@ -22,7 +22,7 @@ Developers write code and make the world a better place.
 * end up with a significant open source portfolio
 
 ### iOS Requirements
-* general requirements (on previous page)
+* general requirements (see [How to Apply](/apply.html))
 * preferred at least 2 computer science courses or the equivalent (ex: CPSC 201 + CPSC 223)
 * interest to learn coding and experiment
 * self motivation

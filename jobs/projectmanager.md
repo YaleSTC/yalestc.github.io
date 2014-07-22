@@ -24,14 +24,14 @@ Project managers each manage a team of student developers as they develop, test,
 * responsible for creating user/admin-facing "release notes"
 
 ### Perks
-* general perks (on previous page)
+* general perks (see [How to Apply](/apply.html))
 * real world management experience
 * understand how tech development works, what makes a team run well
 * learn all aspects of the development and production process
 * make clients happy, representing the work of the development team
 
 ### Requirements
-* general requirements (on previous page)
+* general requirements (see [How to Apply](/apply.html))
 * detail-oriented
 * ability to manage multiple tasks / projects
 * ability to keep track of project goals and timelines

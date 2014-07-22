@@ -31,7 +31,9 @@ See a description of each role on [Job Opportunities](/jobs.html). Each role has
 ## Application process (all roles)
 To apply for Fall 2014, applications are due by midnight, Sunday July 27. Please include the following items:
 * a resume
-* cover letter (include relevant coursework / other experience)
+* cover letter
+  * why you're interested in the positions you're applying to
+  * discuss relevant coursework / other experience
 * two samples of your work
         This might be software you’ve developed, design work, user research, examples of teams you’ve managed (maybe an email?), etc. We want two examples for each role you’re applying to. A link to a github repository is okay for code samples.
 

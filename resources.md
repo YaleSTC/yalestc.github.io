@@ -19,7 +19,7 @@ in_sidebar?: true
   * [Dotfiles](https://github.com/YaleSTC/wiki/wiki/Dotfiles) can help make your command prompt beautiful.
 
 ## Databases
-* [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/) -
+* [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
 * [Postgres, the Best Tool You're Already Using](http://adamsanderson.github.io/railsconf_2013/?full#1)
 * [Visual Explanation of SQL Joins](http://www.codinghorror.com/blog/2007/10/a-visual-explanation-of-sql-joins.html)
 
@@ -75,7 +75,7 @@ git checkout 404_branch_not_found
 
 ### Interactive
 * [CodeSchool](http://www.codecademy.com/tracks/javascript)
-* [Code Academy](http://www.codecademy.com/tracks/javascript)
+* [Codecademy](http://www.codecademy.com/tracks/javascript)
 
 ### Reference
 * [Mozilla Reference - Lots of good links](https://developer.mozilla.org/en/docs/JavaScript)

@@ -27,7 +27,7 @@ We offer students the opportunity to work as Student Developers. Student Develop
 
 ###Community
 
-We also work to support the community of students interested learning and practicing software development. In addition to our course offerings, we work with groups on-campus such as HackYale, Yale BootUp, and the YCC to host events such as the YCC App Challenge, Open Office Hours (where students can drop in to get advice or just chat about building apps), and focus groups with ITS for students to provide feedback on ITS projects.
+We also work to support the community of students interested in learning and practicing software development. In addition to our course offerings, we work with groups on-campus such as HackYale, Yale BootUp, and the YCC to host events such as the YCC App Challenge. We also hold open office hours (where students can drop in to get advice or just chat about building apps), and focus groups with ITS for students to provide feedback on ITS projects.
 
 - [More about our office hours](http://its.yale.edu/centers/student-technology-collaborative/student-developer-program)
 

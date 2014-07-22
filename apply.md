@@ -29,7 +29,7 @@ See a description of each position in [Student Roles](/jobs/index.html). Each ro
 
 
 ## Application process (all roles)
-To apply for Fall 2014, applications are due by midnight, Sunday July 27. Please include the following items:
+To apply for Fall 2014, applications are due by midnight, Sunday, July 27. Please include the following items:
 * a resume
 * cover letter
   * why you're interested in the positions you're applying to

@@ -18,7 +18,7 @@ Additionally, we offer a number of workshops each semester, on a variety of topi
 
 - [More about Ruby on Rails Course](http://its.yale.edu/centers/student-technology-collaborative/stc-web-development-course)
 
-###Employment
+###Employment & Projects
 
 We offer students the opportunity to work as Student Developers. Student Developers receive on-going training, and get paid to work on software projects related to student life, academics, and other University needs.
 

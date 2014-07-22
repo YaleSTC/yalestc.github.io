@@ -54,4 +54,4 @@ Teaching fellows work with the Head TF to make each semester's course possible.
 
 
 ##Applying
-More details about each of these roles and the application process can be found on [How to Apply](/apply.md).
+More details about each of these roles and the application process can be found on [How to Apply](/apply.html).

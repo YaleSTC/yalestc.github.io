@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course TA job description
+title: Course TA - Job Description
 tagline:
 ---
 

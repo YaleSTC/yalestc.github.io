@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Developer job description
+title: Developer - Job Description
 tagline:
 ---
 

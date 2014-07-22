@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Manager job description
+title: Project Manager - Job Description
 tagline:
 ---
 

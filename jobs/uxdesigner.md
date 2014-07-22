@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Experience designer job description
+title: User Experience Designer - Job Description
 tagline:
 ---
 

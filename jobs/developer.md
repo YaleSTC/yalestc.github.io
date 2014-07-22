@@ -8,17 +8,15 @@ Developers write code and make the world a better place.
 
 ### Description
 * develop applications on a team with other student developers
-* research and incorporate software packages to improve our applications (gems, etc)
-* *testing*
-* *refactoring*
-* *code quality*
-* pair program with others on the team.
+* pair program with others on the team
 * review others’ code, and improve the quality of the code you write.
+* research and incorporate software packages to improve our applications (gems, etc)
+* testing, refactoring, code quality
 
 ### Perks
 * general perks (on previous page)
 * real-world programming experience, as opposed to academic programming
-* get paid to learn how to program
+* get paid to get better at programing
 * work on projects that affect the Yale community
 * improve the quality of the code you write
 * end up with a significant open source portfolio

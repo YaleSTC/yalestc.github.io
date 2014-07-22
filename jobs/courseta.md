@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Course TA - Job Description
+title: Course TA
 tagline:
 ---
 
-## Ruby on Rails Course TA
-Course TAs work with the lead instructor to instruct and assist students enrolled in the "Yalies on Rails" course.
+Ruby on Rails Course TAs work with the lead instructor to instruct and assist students enrolled in the "Yalies on Rails" course.
 
 ### Description
 * work with a head instructor and other TAs to develop course curriculum (3+ hours per week)

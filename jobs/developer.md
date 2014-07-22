@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Developer - Job Description
+title: Developer
 tagline:
 ---
 
-## Developer
 Developers write code and make the world a better place.
 
 ### Description

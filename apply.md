@@ -14,7 +14,7 @@ See a description of each role on [Job Opportunities](/jobs.html). Each role has
 * Get paid to learn applicable, real-world skills, and marketable modern-day technologies
 * Work with teams of cool, motivated students like you
 * Attend Hackathons (we’ll pay for the travel)
-* Learn skills for your next startup or job
+* Learn skills for your next job or startup
 * Mentorship from professional developers
 * Collaborate with a community of developers
 * Free Snacks
@@ -29,7 +29,7 @@ See a description of each role on [Job Opportunities](/jobs.html). Each role has
 
 
 ## Application process (all roles)
-To apply for Fall 2014, applications are due by midnight, July 27. Please include the following items:
+To apply for Fall 2014, applications are due by midnight, Sunday July 27. Please include the following items:
 * a resume
 * cover letter (include relevant coursework / other experience)
 * two samples of your work
@@ -40,7 +40,8 @@ Name your files in the format `FirstnameLastnameFiledescription`. Your files mig
 * `SaraHamiltonCoverLetter.pdf`
 * `SaraHamiltonSampleCodeFiles.zip` (or a github link)
 
-Files should be sent to:
-`LINK`
+Files should be emailed to `upload.Applica.uyay2mdeik@u.box.com`. This will upload the files to a Box folder. You should receive a confirmation email.
 
 After we review your written application we may schedule an interview with you. Decisions will be made some time after that.
+
+If you have any questions, let us know! `dev-mgt@yale.edu`

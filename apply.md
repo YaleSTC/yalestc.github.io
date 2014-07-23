@@ -33,7 +33,7 @@ To apply for Fall 2014, applications (both parts) are due by midnight, Sunday, J
 
 Please complete the following items:
 1. [Google Form Application](https://docs.google.com/a/yale.edu/forms/d/1b6AM2TzbNFgm-208hKxCMCVMMDaltEIuBWjpqMReaK0/viewform)
-2. Additional Materials (sent to a Box email address)
+2. Additional Materials (sent to a [Box email address](mailto:upload.Applica.uyay2mdeik@u.box.com))
     * a resume
     * cover letter
       * why you're interested in the positions you're applying to
@@ -46,7 +46,7 @@ Additional Materials should be named in the format `FirstnameLastnameDescription
 * `SaraHamiltonCoverLetter.pdf`
 * `SaraHamiltonSampleCodeFiles.zip` (or a github link)
 
-Additional Materials should be emailed to `upload.Applica.uyay2mdeik@u.box.com`. This will upload the files to a Box folder. You should receive a confirmation email.
+Additional Materials should be emailed to `upload.Applica.uyay2mdeik@u.box.com`. This will upload the files to a Box folder that we have access to. You should receive a confirmation email minutes after sending it.
 
 After we review your written application we may schedule an interview with you. Decisions will be made some time after that.
 

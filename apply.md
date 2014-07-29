@@ -18,6 +18,7 @@ See a description of each position in [Student Roles](/jobs/index.html). Each ro
 * Mentorship from professional developers
 * Collaborate with a community of developers
 * Free Snacks
+* Starting wage $12-14 based of previous experience
 
 ### General Requirements (all roles)
 * Good communication skills

@@ -9,6 +9,7 @@ in_sidebar?: true
 *This page provides setup information to get you up and running for Rails, Android, and iOS development.*
 
 ## General / for everyone
+
 ### CRLF
 Windows developers need to ensure their text editor is set to use the ```LF``` line ending, instead of the Windows-default of ```CRLF```. See [this post](http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/) for background information. This does not apply to Windows developers programming from within a Linux virtual machine.
 

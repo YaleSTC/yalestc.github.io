@@ -6,8 +6,6 @@ sidebar_title: Project Proposals
 in_sidebar?: false
 ---
 
-# STC Developer Program - Projects and Project Proposals
-
 ## Current Projects
 
 Student Developers create and maintain software that benefits the university.

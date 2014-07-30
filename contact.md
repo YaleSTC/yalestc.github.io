@@ -10,6 +10,7 @@ For questions relating to the Student Developer Program, please send an email to
 
 ### Project Development Teams
 For questions specific to one of the Developer Program's software projects, please email the appropriate developer list:
+
 - pNut: [stc-developers-pnut@elilists.yale.edu](mailto:stc-developers-pnut@elilists.yale.edu)
 - Reservations: [stc-developers-reservations@elilists.yale.edu](mailto:stc-developers-reservations@elilists.yale.edu)
 - Shifts: [stc-developers-shifts@elilists.yale.edu](mailto:stc-developers-shifts@elilists.yale.edu)

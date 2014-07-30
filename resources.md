@@ -114,6 +114,7 @@ git checkout 404_branch_not_found
 * [DevMynd - Effective Rails - Part 2 - Hiding ActiveRecord](http://www.devmynd.com/blog/2013-3-effective-rails-part-2-hiding-activerecord?utm_source=rubyweekly&utm_medium=email)
 
 ## Ruby
+
 ### Core Content
 * [Learn to Program (Chris Pine)](http://pine.fm/LearnToProgram/) - Great into to programming in general, that uses the Ruby Language. Suitable for beginners, intermediates may get something out of it as well. It's very thorough and clear, building from the bottom up.
   * available in the Developers Program Library.
@@ -171,6 +172,7 @@ git checkout 404_branch_not_found
 * [Stuart Ellis' Guide to .erb](http://www.stuartellis.eu/articles/erb/)
 
 ## Miscellaneous
+
 ### Documentation
 * [Writing great documentation](http://jacobian.org/writing/great-documentation/)
 

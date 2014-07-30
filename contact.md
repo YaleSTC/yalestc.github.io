@@ -6,10 +6,12 @@ in_sidebar?: true
 ---
 
 ### Program Management
-For questions relating to the Student Developer Program, please send an email to [dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).
+For questions relating to the Student Developer Program, please send an email to
+[dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).
 
 ### Project Development Teams
-For questions specific to one of the Developer Program's software projects, please email the appropriate developer list:
+For questions specific to one of the Developer Program's software projects,
+please email the appropriate developer list:
 
 - pNut: [stc-developers-pnut@elilists.yale.edu](mailto:stc-developers-pnut@elilists.yale.edu)
 - Reservations: [stc-developers-reservations@elilists.yale.edu](mailto:stc-developers-reservations@elilists.yale.edu)

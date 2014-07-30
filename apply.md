@@ -8,10 +8,13 @@ in_sidebar?: true
 ## Perks & Requirements
 
 ### Roles
-See a description of each position in [Student Roles](/jobs/index.html). Each role has its own specific responsibilities, requirements, and perks in addition to the ones below.
+See a description of each position in [Student Roles](/jobs/index.html). Each
+role has its own specific responsibilities, requirements, and perks in addition
+to the ones below.
 
 ### General Perks (all roles)
-* Get paid to learn applicable, real-world skills, and marketable modern-day technologies
+* Get paid to learn applicable, real-world skills, and marketable modern-day
+technologies
 * Work with teams of cool, motivated students like you
 * Attend Hackathons (we’ll pay for the travel)
 * Learn skills for your next job or startup
@@ -30,7 +33,8 @@ See a description of each position in [Student Roles](/jobs/index.html). Each ro
 
 
 ## Application process (all roles)
-To apply for Fall 2014, applications (both parts) are due by midnight, Sunday, August 3.
+To apply for Fall 2014, applications (both parts) are due by midnight, Sunday,
+August 3.
 
 Please complete the following items:
 1. [Google Form Application](https://docs.google.com/a/yale.edu/forms/d/1b6AM2TzbNFgm-208hKxCMCVMMDaltEIuBWjpqMReaK0/viewform)
@@ -39,12 +43,16 @@ Please complete the following items:
     * two samples of your work
       * This might be software you’ve developed, design work, user research, examples of teams you’ve managed (maybe well-composed emails), etc. We want two examples for each role you’re applying to.
 
-Additional Materials should be named in the format `FirstnameLastnameDescription`. Your files might be named:
+Additional Materials should be named in the format
+`FirstnameLastnameDescription`. Your files might be named:
 * `SaraHamiltonResume.pdf`
 * `SaraHamiltonSampleCodeFiles.zip` (or a github link)
 
-Additional Materials should be emailed to `upload.Applica.uyay2mdeik@u.box.com`. This will upload the files to a Box folder that we have access to. You should receive a confirmation email minutes after sending it.
+Additional Materials should be emailed to `upload.Applica.uyay2mdeik@u.box.com`.
+This will upload the files to a Box folder that we have access to. You should
+receive a confirmation email minutes after sending it.
 
-After we review your written application we may schedule an interview with you. Decisions will be made some time after that.
+After we review your written application we may schedule an interview with you.
+Decisions will be made some time after that.
 
 If you have any questions, let us know! `dev-mgt@yale.edu`

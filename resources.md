@@ -69,6 +69,7 @@ git checkout 404_branch_not_found
 * [TutsPlus 30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 ## JavaScript
+
 ### Books
 * [JS the good parts](http://www.amazon.com/dp/0596517742/?tag=stackoverfl08-20)
 * [Eloquent JavaScript - Intro to JS](http://eloquentjavascript.net/contents.html)

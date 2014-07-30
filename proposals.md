@@ -6,9 +6,9 @@ sidebar_title: Project Proposals
 in_sidebar?: false
 ---
 
-###STC Developer Program - Projects and Project Proposals
+# STC Developer Program - Projects and Project Proposals
 
-**CURRENT PROJECTS**
+## Current Projects
 
 Student Developers create and maintain software that benefits the university.
 Our applications primarily use Ruby on Rails, the Android SDK, and the iOS SDK.
@@ -16,7 +16,7 @@ Our applications primarily use Ruby on Rails, the Android SDK, and the iOS SDK.
 To see a list of projects that are currently being worked on, see our
 [GitHub page](https://github.com/YaleSTC/wiki/wiki/STC-Projects).
 
-**PROJECT PROPOSAL**
+## Project Proposal
 
 Once per semester we review which software we're supporting and creating. If you
 have an idea for an application you think we should create or adopt, please let

@@ -7,16 +7,22 @@ in_sidebar?: true
 ---
 
 ## Quick Reference
-* [DocHub.io](http://dochub.io/) - docs of functions and methods for CSS, JavaScript, jQuery, DOM, HTML, PHP, and Python.
+* [DocHub.io](http://dochub.io/) - docs of functions and methods for CSS,
+JavaScript, jQuery, DOM, HTML, PHP, and Python.
 
 ## APIs
 * [Codecademy APIs course](http://www.codecademy.com/tracks/apis)
 
 ## Command line / Terminal
-* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/) - a somewhat long, but complete (exercise-heavy) guide to using the command line. If you're not already comfortable with the command line, you should do this. If you're comfortable with the command line, you should still probably do this.
+* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/) -
+ a somewhat long, but complete (exercise-heavy) guide to using the command line.
+ If you're not already comfortable with the command line, you should do this.
+ If you're comfortable with the command line, you should still probably do this.
 * Customizing
-  * OS X's Terminal application has a lot of configurable settings under Preferences.
-  * [Dotfiles](https://github.com/YaleSTC/wiki/wiki/Dotfiles) can help make your command prompt beautiful.
+  * OS X's Terminal application has a lot of configurable settings under
+  Preferences.
+  * [Dotfiles](https://github.com/YaleSTC/wiki/wiki/Dotfiles) can help make your
+  command prompt beautiful.
 
 ## Databases
 * [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
@@ -24,18 +30,25 @@ in_sidebar?: true
 * [Visual Explanation of SQL Joins](http://www.codinghorror.com/blog/2007/10/a-visual-explanation-of-sql-joins.html)
 
 ### Supplementary
-* [Use the Index, Luke! (SQL Tuning and Indexing)](http://use-the-index-luke.com) - An in-depth guide to how indexes work in SQL DBs, more of an advanced topic, but it's really interesting.
+* [Use the Index, Luke! (SQL Tuning and Indexing)](http://use-the-index-luke.com) -
+An in-depth guide to how indexes work in SQL DBs, more of an advanced topic, but
+it's really interesting.
 
 ## Git
-* [Try Git](http://www.codeschool.com/courses/try-git) - A great interactive intro to git. Start here.
-* [Git Immersion](http://gitimmersion.com/) - A great next step to take what you learned in 'Try Git' and apply it to your own computer.
+* [Try Git](http://www.codeschool.com/courses/try-git) - A great interactive
+intro to git. Start here.
+* [Git Immersion](http://gitimmersion.com/) - A great next step to take what you
+learned in 'Try Git' and apply it to your own computer.
 * [Pro Git](http://git-scm.com/book) - *the* reference book for git.
 * [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (pdf)
 * [Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-* [Git Visual Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - great for reference while you're coding ("what's that command again?")
+* [Git Visual Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) -
+great for reference while you're coding ("what's that command again?")
 
 ### Create and sync a local branch with Github
-*The following commands create both a remote and local branch with tracking between them and check out the local branch. Make sure your base branch is up-to-date!*
+*The following commands create both a remote and local branch with tracking
+between them and check out the local branch. Make sure your base branch is
+up-to-date!*
 
 ```
 git push origin [BASE_BRANCH]:refs/heads/[NEW_BRANCH_NAME]
@@ -53,15 +66,19 @@ git checkout 404_branch_not_found
 ```
 
 ## HTML & CSS
-* [A Practical Guide to HTML & CSS](http://learn.shayhowe.com) - A fantastic and relatively complete introduction to HTML & CSS
-* [W3Schools HTML Tutorials](http://www.w3schools.com/html/default.asp) and [CSS Tutorials](http://www.w3schools.com/css/default.asp) - The canonical and definitive resource for HTML/CSS. Not the clearest source, but still valuable.
+* [A Practical Guide to HTML & CSS](http://learn.shayhowe.com) - A fantastic and
+relatively complete introduction to HTML & CSS
+* [W3Schools HTML Tutorials](http://www.w3schools.com/html/default.asp) and
+[CSS Tutorials](http://www.w3schools.com/css/default.asp) - The canonical and
+definitive resource for HTML/CSS. Not the clearest source, but still valuable.
 
 ### Supplementary
 * [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [CSS Layout Overview - LearnLayout.com](http://learnlayout.com/)
 * [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
 * [CSS Floats 101](http://alistapart.com/article/css-floats-101)
-* [CSS Overflow](http://css-tricks.com/the-css-overflow-property/) and [CSS Floats](http://css-tricks.com/all-about-floats/)
+* [CSS Overflow](http://css-tricks.com/the-css-overflow-property/)
+* [CSS Floats](http://css-tricks.com/all-about-floats/)
 * [Learn CSS Positioning in Ten Steps: position static relative absolute float](http://www.barelyfitz.com/screencast/html-training/css/positioning/) - a bit outdated, but still interesting
 * [Centering in CSS](http://www.w3.org/Style/Examples/007/center.en.html)
 * [Span vs Div & Inline vs Block](http://dustwell.com/div-span-inline-block.html)
@@ -89,7 +106,7 @@ git checkout 404_branch_not_found
 ## Rails
 * [Model View Controller (Lynda)](http://www.youtube.com/watch?v=3mQjtk2YDkM)
 * [Agile Web Development with Rails, 4th Ed](http://www.amazon.com/Agile-Web-Development-Rails-Programmers/dp/097669400X)
-    * available in the Developers Program Library
+  * available in the Developers Program Library
 * [RailsCasts](http://railscasts.com)
 * [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 * [Rails for Zombies](http://www.codeschool.com/courses/rails-for-zombies-redux) (also see part 2)
@@ -105,7 +122,7 @@ git checkout 404_branch_not_found
 * [Learn TDD Without Getting Overwhelmed](http://www.justinweiss.com/blog/2014/06/02/how-to-learn-tdd-without-getting-overwhelmed/)
 * [Team Treehouse's Intro to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 * [The RSpec Book](pragprog.com/book/achbd/the-rspec-book‎)
-    * available in the Developers Program Library
+  * available in the Developers Program Library
 * [TutsPlus RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297)
 * [TestFirst](testfirst.org/learn_ruby)
 
@@ -116,21 +133,29 @@ git checkout 404_branch_not_found
 ## Ruby
 
 ### Core Content
-* [Learn to Program (Chris Pine)](http://pine.fm/LearnToProgram/) - Great into to programming in general, that uses the Ruby Language. Suitable for beginners, intermediates may get something out of it as well. It's very thorough and clear, building from the bottom up.
+* [Learn to Program (Chris Pine)](http://pine.fm/LearnToProgram/) -
+Great into to programming in general, that uses the Ruby Language. Suitable for beginners, intermediates may get something out of it as well. It's very thorough and clear, building from the bottom up.
   * available in the Developers Program Library.
-* [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/) - Quirky Intro to Ruby (Comic?)
+* [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/) -
+Quirky Intro to Ruby (Comic?)
   * Some ruby has changed, like hash notation
-* [Matz' Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/) - lots of examples to illustrate points, good table of contents
+* [Matz' Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/) - lots of
+examples to illustrate points, good table of contents
 * [Humble Little Ruby Book](http://www.humblelittlerubybook.com/)
 
 ### Interactive, Hands-On
-* [Try Ruby](tryruby.com) - a quick whirlwind introduction to things that exist in Ruby. Hard to learn Ruby from this but it's good to quickly see what Ruby exists.
-* [Ruby Monk](http://www.rubymonk.com/) - a full intro to ruby book with interactive examples. Not as good of a starting point as Chris Pine's LearnToProgram, but a wonderful second resource.
-* [Ruby Koans](http://rubykoans.com) - a thorough test-driven walkthrough of most of Ruby's features. You'd learn soo much about Ruby after doing this, but it's only useful after having programmed using Ruby already.
+* [Try Ruby](tryruby.com) - a quick whirlwind introduction to things that exist
+in Ruby. Hard to learn Ruby from this but it's good to quickly see what Ruby exists.
+* [Ruby Monk](http://www.rubymonk.com/) - a full intro to ruby book with
+interactive examples. Not as good of a starting point as Chris Pine's
+LearnToProgram, but a wonderful second resource.
+* [Ruby Koans](http://rubykoans.com) - a thorough test-driven walkthrough of
+most of Ruby's features. You'd learn soo much about Ruby after doing this, but
+it's only useful after having programmed using Ruby already.
 
 ### For Purchase
 * [Programming Ruby (The Pickaxe Book)](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
-    * available in the Developers Program Library
+  * available in the Developers Program Library
 * [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104)
 * [CodeAcademy - Ruby](http://www.codecademy.com/tracks/ruby)
 
@@ -199,8 +224,12 @@ git checkout 404_branch_not_found
 ### UI
 * [The method still works - (37signals) UI Design](http://www.37signals.com/svn/posts/1681-the-method-still-works)
 User Interface / User Design / User Experience / Human Computer Interaction
-* [HCI Class](http://hci-class.org) - excellent online course. It's definitely worth watching the first couple (3?) of weeks' lectures at least. (You can watch lectures if you click "preview course" even if you don't sign up \[although it's free and riskless to sign up and keep track of your progress\].)
-* [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) - a good online resource which goes through design fundamentals
+* [HCI Class](http://hci-class.org) - excellent online course. It's definitely
+worth watching the first couple (3?) of weeks' lectures at least. (You can watch
+ lectures if you click "preview course" even if you don't sign up \[although
+ it's free and riskless to sign up and keep track of your progress\].)
+* [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) -
+a good online resource which goes through design fundamentals
 
 ### Other
 * [How to be a program manager - Joel on Software](http://www.joelonsoftware.com/items/2009/03/09.html)

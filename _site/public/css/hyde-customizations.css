@@ -30,3 +30,26 @@
 .theme-base-yale .related-posts li a:hover {
   color: #004d9d;
 }
+
+#social-media ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#social-media li {
+  display: inline-block;
+  margin-right: 4px;
+}
+
+#social-media a:hover svg {
+  fill: rgba(255,255,255,.9);
+}
+
+#social-media svg {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  top: .15rem;
+  fill: rgba(255,255,255,.7);
+}

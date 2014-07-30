@@ -10,7 +10,8 @@ Developers write code and make the world a better place.
 * develop applications on a team with other student developers
 * pair program with others on the team
 * review others’ code, and improve the quality of the code you write.
-* research and incorporate software packages to improve our applications (gems, etc)
+* research and incorporate software packages to improve our applications (gems,
+etc)
 * testing, refactoring, code quality
 
 ### Perks
@@ -23,7 +24,8 @@ Developers write code and make the world a better place.
 
 ### iOS Requirements
 * general requirements (see [How to Apply](/apply.html))
-* preferred at least 2 computer science courses or the equivalent (ex: CPSC 201 + CPSC 223)
+* preferred at least 2 computer science courses or the equivalent (ex: CPSC 201
++ CPSC 223)
 * interest to learn coding and experiment
 * self motivation
 * background in C/C++, at least working knowledge
@@ -31,7 +33,8 @@ Developers write code and make the world a better place.
 
 ## Android Requirements
 * general requirements (on previous page)
-* preferred at least 2 computer science courses or the equivalent (ex: CPSC 201 + CPSC 223)
+* preferred at least 2 computer science courses or the equivalent (ex: CPSC 201
++ CPSC 223)
 * pnterest to learn coding and experiment
 * self motivation
 * background in Java, at least working knowledge
@@ -39,7 +42,8 @@ Developers write code and make the world a better place.
 
 ## Ruby Requirements
 * general requirements (on previous page)
-* preferred at least 2 computer science courses or the equivalent (ex: CPSC 201 + CPSC 223)
+* preferred at least 2 computer science courses or the equivalent (ex: CPSC 201
++ CPSC 223)
 * interest to learn coding and experiment
 * self motivation
 * background in Ruby, at least working knowledge

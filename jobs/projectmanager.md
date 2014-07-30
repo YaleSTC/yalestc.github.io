@@ -4,7 +4,8 @@ title: Project Manager
 tagline:
 ---
 
-Project managers each manage a team of student developers as they develop, test, and maintain applications related to student life and the university.
+Project managers each manage a team of student developers as they develop, test,
+and maintain applications related to student life and the university.
 
 ### Description
 * prioritize clients' needs (triage)

@@ -23,7 +23,7 @@
         http://www.leveluplunch.com/blog/2014/04/03/sort-pages-by-title-filter-array-by-layout-jekyllrb/
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = (site.pages | sort: 'title') %}
       {% for node in pages_list %}
         {% if node.title != null and node.sidebar_title != "Home" and node.in_sidebar? == true %}
           {% if node.layout == "page" %}

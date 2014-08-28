@@ -6,51 +6,90 @@ sidebar_title: Courses
 in_sidebar?: false
 ---
 
-###STC Courses
+##Workshop Series
 
-This course is normally taught both Fall and Spring semesters. If you'd like to
-hear more information about next semester's course as soon as it's available,
-let us know in this [interest form](https://docs.google.com/a/yale.edu/forms/d/1qreQU3PpvtKdwFFNcOos-Qa9fMq5auvBCPgww6_DOMw/viewform).
-
-Current information is for the Spring 2015 Course. The Spring 2015 Course
-Website is located on GitHub,
-[here](https://github.com/yale-stc-developer-curriculum/Yalies-On-Rails-2014-Spring/wiki).
-
-**Content:**
-This course will cover the basics of building web applications using Ruby on
-Rails, and is ideally suited for Students who have some experience with
-HTML/CSS, as well as basic programming knowledge (any language). Students who
-don't meet these prerequisites may still apply, though you may need to do some
-pre-work if you want to stay up to speed with the course.
-
-**Instructor:**
-Casey Watts (Program Manager, Student Developer and Mentorship Program)
+These courses are designed to be quick introductions to various technologies
+with a goal of getting students started.
 
 **Eligibility:**
-This course is open to anyone, even people not affiliated with Yale. The course
-hasn't been capped in the past, but may be in a future semester. If it is
-capped, preference will be given to members of the Yale community and students.
+These workshops will be taught both Fall and Spring semesters.
+They are open to anyone, even people not affiliated with Yale. Currently,
+the courses do not have a maximum capacity.
+Previous programming experience requirements vary on the workshop.
 
-No background in programming is assumed. For students who have a background in
-programming, bonus content/assignments will be given.
+###iOS Development
+**Content:**
+This course will cover the structure of an iOS project, Xcode tools, and the
+fundamentals of iOS development.
 
-**Meeting times:**
-For Spring 2015, the course will meet every Saturday from 2pm - 4:30pm, starting
- on Feb 1st, and ending on April 26th. Limited office hours will be held as well
-  (times TBA). The course will include approximately 3 - 5 hours of assignments
-  outside of class per week.
+This course is ideally suited for students who have some experience with Objective-C
+but experience with other programming languages is also good. Students who don't
+meet these prerequisites are welcome but may need to do some pre-work to fully
+understand the course.
 
-**Location:** TEAL / 17 Hillhouse
+**Instructor:**
+Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
 
-**How to Apply:**
-The interest form above is different from the Application/Registration form.
-Applications for Spring 2014 are closed.
+**When:**
+For Fall 2014, the course will be held on Friday, September 19th from 1:30pm - 3:00pm,
+Office hours will be held after the course for additional help.
 
-**Beyond the Course:**
-Students who successfully complete the course may want to apply to work for STC
-as a [Student Developer](http://yalestc.github.io/jobs/index.html).
-Student Developers continue learning web development skills, while helping the
-Yale community, while getting paid to do so. Interested students should speak
-with the instructor about this, and about 2/3 of the way through the course,
-they will be evaluated for this role. Opportunities are available both term-time
-and over the summer.
+**Location:** TBD
+
+###Android Development
+**Content:**
+This course will cover the structure of an Android project, Android Studio tools,
+and the fundamentals of Android development.
+
+This course is ideally suited for students who have some experience with Java/XML
+but experience with other programming languages is also good. Students who don't
+meet these prerequisites are welcome but may need to do some pre-work to fully
+understand the course.
+
+**Instructor:**
+Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+
+**When:**
+For Fall 2014, the course will be held on Friday, October 10th from 1:30pm - 3:00pm,
+Office hours will be held after the course for additional help.
+
+**Location:** TBD
+
+###Google Sites
+**Content:**
+This course will cover Google Sites as a whole. Brief introduction of what it is,
+what it can do, and finishing with a demo of creating a website from scratch.
+
+No background in programming is required for this course.
+
+**Instructor:**
+Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+
+**When:**
+For Fall 2014, the course will be held on Friday, November 7th from 1:30pm - 3:00pm,
+Office hours will be held after the course for additional help.
+
+**Location:** TBD
+
+###Google App Engine
+**Content:**
+This course will cover Google App Engine and how to use it. An introduction of
+what it is, what it can do and how to use it to deploy apps fast and effectively.
+
+This course is ideally suited for students who have some experience with any
+programming language. Students who don't meet these prerequisites are
+welcome but may need to do some pre-work to fully understand the course.
+
+**Instructor:**
+Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+
+**When:**
+For Fall 2014, the course will be held on Friday, November 14th from 1:30pm - 3:00pm,
+Office hours will be held after the course for additional help.
+
+**Location:** TBD
+
+
+**Registration:**
+If you are interested in attending any of these workshops, please fill out the
+form [here](https://docs.google.com/a/yale.edu/forms/d/1BpWnnO3HAEMHsWuum2oeFnvUWKI5GTuu_kbRNkud62w/viewform).

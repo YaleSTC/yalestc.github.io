@@ -3,7 +3,7 @@ layout: page
 title: Setting Up Your Dev Environment
 tagline:
 sidebar_title: Setup
-in_sidebar?: true
+in_sidebar?: false
 ---
 
 *This page provides setup information to get you up and running for Rails,

@@ -3,7 +3,7 @@ layout: page
 title: Workshop Series
 tagline:
 sidebar_title: Workshops
-in_sidebar?: false
+in_sidebar?: true
 ---
 
 ###Registration:

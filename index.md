@@ -39,7 +39,7 @@ such as the YCC App Challenge. We also hold open office hours (where students
 can drop in to get advice or just chat about building apps), and focus groups
 with ITS for students to provide feedback on ITS projects.
 
-- [More about our office hours](http://its.yale.edu/centers/student-technology-collaborative/student-developer-program)
+- [More about our office hours](officehour.html)
 
 -----
 

@@ -16,14 +16,10 @@ and support the broader student developer community.
 
 ###Teaching
 
-The Student Developer Program currently offers a core course in web developing
-with Ruby on Rails. This course is taught on a semester basis, and covers the
-basics of building web applications using Ruby on Rails.
+The Student Developer Program currently offers a number of workshops each semester,
+on a variety of topics (including Android Development, iOS Development, and more).
 
-Additionally, we offer a number of workshops each semester, on a variety of
-topics (including Ruby on Rails, iOS Development, and more).
-
-- [More about the Ruby on Rails Course](http://its.yale.edu/centers/student-technology-collaborative/stc-web-development-course)
+- [More about the Workshops](courses.html)
 
 ###Employment & Projects
 

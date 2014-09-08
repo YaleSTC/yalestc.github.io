@@ -45,6 +45,7 @@ Please complete the following items:
 
 Additional Materials should be named in the format
 `FirstnameLastnameDescription`. Your files might be named:
+
 * `SaraHamiltonResume.pdf`
 * `SaraHamiltonSampleCodeFiles.zip` (or a github link)
 

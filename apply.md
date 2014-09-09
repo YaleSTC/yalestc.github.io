@@ -37,6 +37,7 @@ To apply for Fall 2014, applications (both parts) are due by midnight, Sunday,
 August 3.
 
 Please complete the following items:
+
 1. [Google Form Application](https://docs.google.com/a/yale.edu/forms/d/1b6AM2TzbNFgm-208hKxCMCVMMDaltEIuBWjpqMReaK0/viewform)
 2. Additional Materials (sent to a [Box email address](mailto:upload.Applica.uyay2mdeik@u.box.com))
     * a resume

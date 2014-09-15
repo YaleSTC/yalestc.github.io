@@ -29,6 +29,10 @@ but experience with other programming languages is also good. Students who don't
 meet these prerequisites are welcome but may need to do some pre-work to fully
 understand the course.
 
+**Suggested Prework**
+http://cocoadevcentral.com/d/learn_objectivec/
+http://learnxinyminutes.com/docs/objective-c/
+
 **Pre-requisites**
 You will need a Mac to develop on the iOS platform. You will also need Xcode 5
 available on the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12).
@@ -40,7 +44,10 @@ Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
 For Fall 2014, the course will be held on Friday, September 19th from 1:30pm - 3:00pm,
 Office hours will be held after the course for additional help.
 
-**Location:** TBD
+**Location:**
+TEAL Classroom
+17 Hillhouse Ave
+New Haven, CT 06511
 
 ###Android Development
 **Content:**

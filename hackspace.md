@@ -21,8 +21,7 @@ and/or are interested in working with other developers.
 **Location**
 
 The HackSpace is located at 143 Elm St. Basement
-<iframe width="600" height="600" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/search?key=AIzaSyAt9g_alNaAZvskS8JQZpgVCgTekZVUz5Y&q=143+Elm+St,+Yale+University,+New+Haven,+CT+06511/@41.309167,-72.9255067,17z/data=!4m2!3m1!1s0x89e7d9b45328a89b:0x8d8e1a4433c88b08"></iframe>
+Embed Google Maps
 
 **Access**
 

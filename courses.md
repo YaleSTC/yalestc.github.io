@@ -49,6 +49,8 @@ TEAL Classroom
 17 Hillhouse Ave
 New Haven, CT 06511
 
+**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207357492/)**
+
 ###Android Development
 **Content:**
 This course will cover the structure of an Android project, Android Studio tools,
@@ -74,6 +76,8 @@ Office hours will be held after the course for additional help.
 TEAL Classroom
 17 Hillhouse Ave
 New Haven, CT 06511
+
+**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207365512/?a=ea1_grp&rv=ea1&_af_eid=207365512&_af=event)**
 
 ###Google App Engine
 **Content:**
@@ -101,6 +105,8 @@ TEAL Classroom
 17 Hillhouse Ave
 New Haven, CT 06511
 
+**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207367522/?a=ea1_grp&rv=ea1&_af_eid=207367522&_af=event)**
+
 ###Google Sites
 **Content:**
 This course will cover Google Sites as a whole. Brief introduction of what it is,
@@ -123,3 +129,5 @@ Office hours will be held after the course for additional help.
 WLH 208
 100 Wall Street, New Haven, CT
 November 14th, 2014
+
+**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207366462/?a=ea1_grp&rv=ea1&_af_eid=207366462&_af=event)**

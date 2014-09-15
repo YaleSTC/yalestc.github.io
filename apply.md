@@ -33,8 +33,7 @@ technologies
 
 
 ## Application process (all roles)
-To apply for Fall 2014, applications (both parts) are due by midnight, Sunday,
-August 3.
+Our next hiring round will be in November, for jobs beginning in January. Below are the application instructions. In the meantime, fill out [this form](https://docs.google.com/a/yale.edu/spreadsheet/viewform?usp=drive_web&formkey=dFVxelF5WC1qQldRVmNrcVNDcWlHbkE6MQ#gid=0) if you're interested to be sure to get updates from us!
 
 Please complete the following items:
 

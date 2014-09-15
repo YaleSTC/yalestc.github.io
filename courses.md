@@ -70,27 +70,10 @@ Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
 For Fall 2014, the course will be held on Friday, October 10th from 1:30pm - 3:00pm,
 Office hours will be held after the course for additional help.
 
-**Location:** TBD
-
-###Google Sites
-**Content:**
-This course will cover Google Sites as a whole. Brief introduction of what it is,
-what it can do, and finishing with a demo of creating a website from scratch. By
-the end of the class, you will be able to create a website on your own.
-
-No background in programming is required for this course.
-
-**Pre-requisites**
-An account with Google. All Yale undergrads will use Google Sites through EliApps.
-
-**Instructor:**
-Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
-
-**When:**
-For Fall 2014, the course will be held on Friday, November 7th from 1:30pm - 3:00pm,
-Office hours will be held after the course for additional help.
-
-**Location:** TBD
+**Location:**
+TEAL Classroom
+17 Hillhouse Ave
+New Haven, CT 06511
 
 ###Google App Engine
 **Content:**
@@ -110,7 +93,33 @@ An account with Google. All Yale undergrads will use Google App Engine through E
 Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
 
 **When:**
+For Fall 2014, the course will be held on Friday, November 7th from 1:30pm - 3:00pm,
+Office hours will be held after the course for additional help.
+
+**Location:**
+TEAL Classroom
+17 Hillhouse Ave
+New Haven, CT 06511
+
+###Google Sites
+**Content:**
+This course will cover Google Sites as a whole. Brief introduction of what it is,
+what it can do, and finishing with a demo of creating a website from scratch. By
+the end of the class, you will be able to create a website on your own.
+
+No background in programming is required for this course.
+
+**Pre-requisites**
+An account with Google. All Yale undergrads will use Google Sites through EliApps.
+
+**Instructor:**
+Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+
+**When:**
 For Fall 2014, the course will be held on Friday, November 14th from 1:30pm - 3:00pm,
 Office hours will be held after the course for additional help.
 
-**Location:** TBD
+**Location:**
+WLH 208
+100 Wall Street, New Haven, CT
+November 14th, 2014

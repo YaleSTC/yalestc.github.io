@@ -3,7 +3,7 @@ layout: page
 title: HackSpace
 tagline:
 sidebar_title: HackSpace
-in_sidebar?: false
+in_sidebar?: true
 ---
 
 ###What is the HackSpace?###
@@ -28,4 +28,6 @@ We have open hours every Friday from 2-5pm. We encourage all of our developers t
 
 **Access**
 
-To request access to the HackSpace, please fill out this [form](https://docs.google.com/forms/d/1T1J3TDzf2GDEgOW59_Qe7G-kvIyLtVRtnwmkPcBXrdQ/viewform). We will give you access as soon as possible!
+To request access to the HackSpace, please fill out this access request form. We will give you access as soon as possible!
+
+[HackSpace Access Request Form](https://docs.google.com/forms/d/1T1J3TDzf2GDEgOW59_Qe7G-kvIyLtVRtnwmkPcBXrdQ/viewform)

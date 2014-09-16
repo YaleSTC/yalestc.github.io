@@ -23,7 +23,9 @@ The HackSpace is located in the basement of 143 Elm Street.
 
 <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=143%20Elm%20Street%2C%20New%20Haven%2C%20CT%2C%20United%20States&key=AIzaSyDVa_UKFA2-y7tqwimS8vQYLB8bq6BXZSg"> </iframe>
 
+
 **Open Hours**
+
 We have open hours every Friday from 2-5pm. We encourage all of our developers to come in and work at this time, and all are welcome to join. It's a laid back and productive way to collaborate with other developers, get help on a problem you're stuck on, or just hang out with your developer friends. 
 
 **Access**

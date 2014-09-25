@@ -14,7 +14,7 @@ allows easy tracking of employees who work scheduled hours in various locations
 and times.
 - WiFi Reporter is a mobile app that checks and reports on areas of slow wifi connectivity around campus. 
 - ListManager helps students who manage antiquated panlists transition them over to Mailman or EliLists.
-- Pulse is a mobile app that will allow YCC to quickly survey the student body.
+- Pulse is a mobile app that allows YCC to quickly survey the student body.
 - Yale Mobile is a mobile app for students that provides useful information about everything from dining halls to laundry machines. 
 
 ## Previous Projects

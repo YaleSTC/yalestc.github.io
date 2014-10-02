@@ -49,7 +49,7 @@ Additional Materials should be named in the format
 * `SaraHamiltonResume.pdf`
 * `SaraHamiltonSampleCodeFiles.zip` (or a github link)
 
-Additional Materials should be emailed to `upload.Applica.uyay2mdeik@u.box.com`.
+Additional Materials should be emailed to `upload.Applica.ibi6diklvg@u.box.com`.
 This will upload the files to a Box folder that we have access to. You should
 receive a confirmation email minutes after sending it.
 

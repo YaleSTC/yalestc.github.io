@@ -37,8 +37,8 @@ Our next hiring round will be in November, for jobs beginning in January. Below 
 
 Please complete the following items:
 
-1. [Google Form Application](https://docs.google.com/a/yale.edu/forms/d/1b6AM2TzbNFgm-208hKxCMCVMMDaltEIuBWjpqMReaK0/viewform)
-2. Additional Materials (sent to a [Box email address](mailto:upload.Applica.uyay2mdeik@u.box.com))
+1. [Google Form Application](https://docs.google.com/a/yale.edu/forms/d/1hjyg3lcRIyXQGACgwgIZn_xUPUxkE57WB9gS9Q4ZiqY/viewform)
+2. Additional Materials (sent to a [Box email address](mailto:upload.Applica.ibi6diklvg@u.box.com))
     * a resume
     * two samples of your work
       * This might be software you’ve developed, design work, user research, examples of teams you’ve managed (maybe well-composed emails), etc. We want two examples for each role you’re applying to.

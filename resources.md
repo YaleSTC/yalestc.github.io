@@ -31,7 +31,7 @@ JavaScript, jQuery, DOM, HTML, PHP, and Python.
 
 ### Supplementary
 * [Use the Index, Luke! (SQL Tuning and Indexing)](http://use-the-index-luke.com) -
-An in-depth guide to how indexes work in SQL DBs, more of an advanced topic, but
+This is an in-depth guide to how indexes work in SQL DBs, more of an advanced topic, but
 it's really interesting.
 
 ## Git

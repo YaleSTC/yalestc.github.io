@@ -80,13 +80,14 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 1.25rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
+  font-size:18px;
 }
 .sidebar-nav-item {
   display: block;

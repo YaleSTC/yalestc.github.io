@@ -44,7 +44,7 @@ Developers work under the Technical Lead and Project Manager and are responsible
 for writing code. Coding should be primarily done in pairs or together as a
 group. Good team skills are essential.
 
-* [Ruby on Rails, iOS, or Android Developer Details](/jobs/developer.html)
+* [Ruby on Rails, JavaScript, iOS, or Android Developer Details](/jobs/developer.html)
 
 ### Designers
 Designers help the developer teams with the design of their software. UX and

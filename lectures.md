@@ -19,7 +19,7 @@ October 21st, 4-5pm, WLH 113
 ####Client Intake and Project Management, presented by Taber Lightfoot and Kimberly Pasko
 October 28th, 4-5pm, WLH 113 
 
-####Ruby on Rails, presented by Tom Reznik 
+####SQL Performance, presented by Tom Reznik 
 November 11th, 4-5pm, WLH 113 
  
 ####Careers in Software Development, presented by Zack Morek

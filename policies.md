@@ -1,3 +1,12 @@
+---
+layout: page
+title: Policies
+tagline:
+sidebar_title: Policies
+in_sidebar?: true
+---
+
+
 ##Telecommuting Policy
 -Students can work from anywhere. Most of the time it is done from the HackSpace. Generally, mor than 2/3 of development work is done from the HackSpace.
 

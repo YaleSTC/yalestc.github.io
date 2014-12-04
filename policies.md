@@ -3,7 +3,7 @@ layout: page
 title: Policies
 tagline:
 sidebar_title: Policies
-in_sidebar?: true
+in_sidebar?: false
 ---
 
 
@@ -13,7 +13,7 @@ in_sidebar?: true
 ##Code Editing Workflow
 
 ###Student Developers can
- 
+
 - edit code on their own feature branches
 - submit pull requests
 

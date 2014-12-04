@@ -32,7 +32,7 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 - Qingyang Chen - Silliman '17
 - Simon Podhajsky - Berkeley '15
 
-### UX+D
+### User Experience and Design
 - Jessica Yang - Berkeley '16
 - Walden Davis - Saybrook '16
 

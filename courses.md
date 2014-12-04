@@ -7,11 +7,13 @@ in_sidebar?: true
 ---
 
 ###Registration
-If you are interested in attending any of these workshops, please fill out the
+<!--If you are interested in attending any of these workshops, please fill out the
 form [here](https://docs.google.com/a/yale.edu/forms/d/1BpWnnO3HAEMHsWuum2oeFnvUWKI5GTuu_kbRNkud62w/viewform).
 
 These courses are designed to be quick introductions to various technologies
-with a goal of getting students started.
+with a goal of getting students started.-->
+
+**There are no workshops left for the Fall 2014 semester.** 
 
 **Eligibility:**
 These workshops will be taught both Fall and Spring semesters.

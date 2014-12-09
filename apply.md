@@ -21,7 +21,7 @@ technologies
 * Mentorship from professional developers
 * Collaborate with a community of developers
 * Free Snacks
-* Starting wage $12-14 based of previous experience
+* Starting wage $13.50 based of previous experience
 
 ### General Requirements (all roles)
 * Good communication skills
@@ -33,6 +33,10 @@ technologies
 
 
 ## Application process (all roles)
+
+###Hiring for the Spring 2015 semester has ended.
+
+
 Our next hiring round will be in November, for jobs beginning in January. Below are the application instructions. In the meantime, fill out [this form](https://docs.google.com/a/yale.edu/spreadsheet/viewform?usp=drive_web&formkey=dFVxelF5WC1qQldRVmNrcVNDcWlHbkE6MQ#gid=0) if you're interested to be sure to get updates from us!
 
 Please complete the following items:
@@ -43,13 +47,13 @@ Please complete the following items:
     * two samples of your work
       * This might be software you’ve developed, design work, user research, examples of teams you’ve managed (maybe well-composed emails), etc. We want two examples for each role you’re applying to.
 
-Additional Materials should be named in the format
+Additional materials should be named in the format
 `FirstnameLastnameDescription`. Your files might be named:
 
 * `SaraHamiltonResume.pdf`
 * `SaraHamiltonSampleCodeFiles.zip` (or a github link)
 
-Additional Materials should be emailed to `upload.Applica.ibi6diklvg@u.box.com`.
+Additional materials should be emailed to `upload.Applica.ibi6diklvg@u.box.com`.
 This will upload the files to a Box folder that we have access to. You should
 receive a confirmation email minutes after sending it.
 

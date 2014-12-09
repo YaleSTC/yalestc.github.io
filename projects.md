@@ -12,10 +12,12 @@ application for item loan management.
 - [Shifts](https://yalestc.github.io/shifts/) is an open-source application that
 allows easy tracking of employees who work scheduled hours in various locations
 and times.
-- WiFi Reporter is a mobile app that checks and reports on areas of slow wifi connectivity around campus. 
+- WiFi Reporter is a mobile app that checks and reports on areas of slow wifi connectivity around campus.
 - ListManager helps students who manage antiquated panlists transition them over to Mailman or EliLists.
 - Pulse is a mobile app that allows YCC to quickly survey the student body.
-- Yale Mobile is a mobile app for students that provides useful information about everything from dining halls to laundry machines. 
+- Yale (Public) is a mobile app that is aimed towards the general public providing
+information about Yale University.
+- Yale Mobile is a mobile app for students that provides useful information about everything from dining halls to laundry machines.
 
 ## Previous Projects
 The Yale Student Developers program began under the umbrella of the

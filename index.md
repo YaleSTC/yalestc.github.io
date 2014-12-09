@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yale Student Developer Program
+title: Yale Student Developer and Mentorship Program
 tagline:
 sidebar_title: Home
 in_sidebar?: true

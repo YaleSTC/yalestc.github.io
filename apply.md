@@ -37,7 +37,7 @@ technologies
 ###Hiring for the Spring 2015 semester has ended.
 
 
-Our next hiring round will be in November, for jobs beginning in January. Below are the application instructions. In the meantime, fill out [this form](https://docs.google.com/a/yale.edu/spreadsheet/viewform?usp=drive_web&formkey=dFVxelF5WC1qQldRVmNrcVNDcWlHbkE6MQ#gid=0) if you're interested to be sure to get updates from us!
+Our next hiring round will be in July, for jobs beginning in August. Below are the application instructions. In the meantime, fill out [this form](https://docs.google.com/a/yale.edu/spreadsheet/viewform?usp=drive_web&formkey=dFVxelF5WC1qQldRVmNrcVNDcWlHbkE6MQ#gid=0) if you're interested to be sure to get updates from us!
 
 Please complete the following items:
 

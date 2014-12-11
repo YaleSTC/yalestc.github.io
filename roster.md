@@ -8,6 +8,9 @@ in_sidebar?: true
 
 The Student Developer and Mentorship Program team members of Fall 2014!
 
+### Managers
+- Jemin Lee - Assistant Maanger
+
 ### Android Developers
 - Jason Liu - Pierson '16
 - Abhishek Chandra - Saybrook '16

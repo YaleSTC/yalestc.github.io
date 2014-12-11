@@ -10,7 +10,7 @@ This page gives an overview of the different roles that exist. Also see:
 
 The Student Developer Program operates in two main wings\: software development,
 and teaching. Student positions are available in both departments. All student
-employees report to Casey Watts and Jemin Lee at [dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).
+employees report to Jemin Lee at [dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).
 
 
 ## Software Development
@@ -52,11 +52,6 @@ graphic design are very important parts of every successful application.
 
 * [User Experience Designer Details](/jobs/uxdesigner.html)
 
-
-## Teaching
-The Developer Program offers a Ruby on Rails training course, not-for-credit,
-each semester. Positions are available to make this happen.
-
 ### Relationship Coordinator
 The Relationship Coordinator works with ITS, IdeaScale, HackYale, Y-Hack,
 NewHaven.io, and other companies and universities to organize collaborations for
@@ -65,6 +60,11 @@ NewHaven.io, and other companies and universities to organize collaborations for
  appropriate support for training.
 
 * The **Relationship Coordinator** is normally promoted from another role in STC.
+
+<!--
+## Teaching
+The Developer Program offers a Ruby on Rails training course, not-for-credit,
+each semester. Positions are available to make this happen.
 
 ### Head Teaching Fellow
 The Head Teaching Fellow coordinates course plans with ITS full-time staff, and
@@ -76,7 +76,7 @@ works with the other teaching fellows to lead class each week.
 Teaching fellows work with the Head TF to make each semester's course possible.
 
 * [Ruby on Rails course TA Details](/jobs/courseta.html)
-
+-->
 
 ##Applying
 More details about each of these roles and the application process can be found

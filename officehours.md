@@ -10,11 +10,6 @@ development at Yale. You can get advice for programming with HTML/CSS/Javascript
 Ruby on Rails, git/github, and many other technical topics. You can also discuss
 Yale ITS resources, policies, and APIs.
 
-Casey Watts is the manager of the Student Developer program. You can email him at
-casey.watts@yale.edu. You can see his face in the [ITS Organization chart, here](http://its.yale.edu/about/its-organization-charts/campus-community-technologies-0/web-technologies/web-technologies-1).
-
-**Office:** 143 Elm St. Basement Room B10
-
 
 Jemin Lee is the assistant manager of the Student Developer program. You can email
 him at jemin.lee@yale.edu. You can see his face in the [ITS Organization Chart, here](http://its.yale.edu/about/its-organization-charts/campus-community-technologies-0/web-technologies/web-technologies-1).

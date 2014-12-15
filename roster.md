@@ -17,6 +17,7 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 - Carsten Peterson - Morse '17
 - Stanislaw Swidwinski - Trumbull '17
 - Alfred Delle - Ezra Stiles '17 (New Hire!)
+- Devansh Tandon - Berkeley '17 (New Hire!)
 
 ### iOS Developers
 - Hengchu Zhang - Calhoun '15'
@@ -40,9 +41,11 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 - Sydney Young - Silliman '18 (New Hire!)
 - Alan Liu - Timothy Dwight '18 (New Hire!)
 - Connor McLaughlin - Morse '18 (New Hire!)
+- Tyler Petrochko - Timothy Dwight '18 (New Hire!)
 
 ### JavaScript Developers
 - Daniel Leibovic - Trumbull '17 (New Hire!)
+- David McPeek - Berkeley '17 (New Hire!)
 
 ### User Experience and Design
 - Jessica Yang - Berkeley '16

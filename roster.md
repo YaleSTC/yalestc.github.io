@@ -9,13 +9,14 @@ in_sidebar?: true
 The Student Developer and Mentorship Program team members of Fall 2014!
 
 ### Managers
-- Jemin Lee - Assistant Maanger
+- Jemin Lee - Assistant Manager
 
 ### Android Developers
 - Jason Liu - Pierson '16
 - Abhishek Chandra - Saybrook '16
 - Carsten Peterson - Morse '17
 - Stanislaw Swidwinski - Trumbull '17
+- Alfred Delle - Ezra Stiles '17 (New Hire!)
 
 ### iOS Developers
 - Hengchu Zhang - Calhoun '15'
@@ -23,6 +24,8 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 - Minh Tri Pham - Jonathan Edwards '17
 - Jenny Allen - Trumbull '16
 - Hannia Zia - Saybrook '16
+- Lee Danilek - Silliman '18 (New Hire!)
+- Taishi Nojima - Ezra Stiles '18 (New Hire!)
 
 ### Ruby on Rails Developers
 - Oren Kanner - GRAD '16
@@ -34,6 +37,12 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 - Xinwei Yao - Jonathan Edwards '16
 - Qingyang Chen - Silliman '17
 - Simon Podhajsky - Berkeley '15
+- Sydney Young - Silliman '18 (New Hire!)
+- Alan Liu - Timothy Dwight '18 (New Hire!)
+- Connor McLaughlin - Morse '18 (New Hire!)
+
+### JavaScript Developers
+- Daniel Leibovic - Trumbull '17 (New Hire!)
 
 ### User Experience and Design
 - Jessica Yang - Berkeley '16

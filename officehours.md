@@ -5,9 +5,9 @@ tagline:
 in_sidebar?: true
 ---
 
-STC offers "office hours" open to anyone at Yale who would like to discuss software
+The SDMP offers "office hours" open to anyone at Yale who would like to discuss software
 development at Yale. You can get advice for programming with HTML/CSS/Javascript,
-Ruby on Rails, git/github, and many other technical topics. You can also discuss
+Ruby on Rails, Git / GitHub, and many other technical topics. You can also discuss
 Yale ITS resources, policies, and APIs.
 
 

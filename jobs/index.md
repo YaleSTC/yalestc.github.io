@@ -59,7 +59,7 @@ NewHaven.io, and other companies and universities to organize collaborations for
  Relationship Coordinator is also responsible for making sure there is
  appropriate support for training.
 
-* The **Relationship Coordinator** is normally promoted from another role in STC.
+* The **Relationship Coordinator** is normally promoted from another role in the SDMP.
 
 <!--
 ## Teaching

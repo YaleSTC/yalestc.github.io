@@ -21,7 +21,7 @@ technologies
 * Mentorship from professional developers
 * Collaborate with a community of developers
 * Free Snacks
-* Starting wage $13.50 based of previous experience
+* Starting wage $13.50 based on previous experience
 
 ### General Requirements (all roles)
 * Good communication skills

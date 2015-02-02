@@ -33,11 +33,10 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 - Henok Addis - Ezra Stiles '17
 - [Jay Hou](https://github.com/jiggoha) - Trumbull '17
 - [Sylvan Zheng](https://github.com/squidgetx) - Morse '17
-- [Aaron Effron](https://github.com/aaron-effron) - Morse '15
 - [Thomas Weng](https://github.com/thomasweng15) - Trumbull '15
 - [Xinwei Yao](https://github.com/njlxyaoxinwei) - Jonathan Edwards '16
 - Qingyang Chen - Silliman '17
-- [Simon Podhajsky](https://github.com/shippy) - Berkeley '15
+- [Šimon Podhajský](https://github.com/shippy) - Berkeley '15
 - Sydney Young - Silliman '18 (New Hire!)
 - Alan Liu - Timothy Dwight '18 (New Hire!)
 - Connor McLaughlin - Morse '18 (New Hire!)

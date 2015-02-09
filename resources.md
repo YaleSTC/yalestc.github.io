@@ -6,10 +6,6 @@ sidebar_title: Resources
 in_sidebar?: true
 ---
 
-## Quick Reference
-* [DocHub.io](http://dochub.io/) - docs of functions and methods for CSS,
-JavaScript, jQuery, DOM, HTML, PHP, and Python.
-
 ## APIs
 * [Codecademy APIs course](http://www.codecademy.com/tracks/apis)
 

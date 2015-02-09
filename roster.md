@@ -23,14 +23,14 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 - [Hengchu Zhang](https://github.com/hengchu) - Calhoun '15
 - [Charly Walther](https://github.com/cmwalther) - Berkeley '16
 - [Minh Tri Pham](https://github.com/mrgoodboy) - Jonathan Edwards '17
-- [Jenny Allen](https://github.com/jennyallen) - Trumbull '16
+/* - [Jenny Allen](https://github.com/jennyallen) - Trumbull '16*/
 - Hannia Zia - Saybrook '16
 - Lee Danilek - Silliman '18 (New Hire!)
 - Taishi Nojima - Ezra Stiles '18 (New Hire!)
 
 ### Ruby on Rails Developers
 - [Oren Kanner](https://github.com/orenyk) - GRAD '16
-- Henok Addis - Ezra Stiles '17
+/* - Henok Addis - Ezra Stiles '17 */
 - [Jay Hou](https://github.com/jiggoha) - Trumbull '17
 - [Sylvan Zheng](https://github.com/squidgetx) - Morse '17
 - [Thomas Weng](https://github.com/thomasweng15) - Trumbull '15

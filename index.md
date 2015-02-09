@@ -41,6 +41,12 @@ with ITS for students to provide feedback on ITS projects.
 
 - [More about our office hours](officehours.html)
 
+###Success
+
+In past years, students who have worked for the Student Developer and Mentorship Program
+have gone to intern or work at companies like Bloomberg, Google, Microsoft, Facebook, Uber,
+and more..
+
 -----
 
 <small>The Student Developer program moved from one part of

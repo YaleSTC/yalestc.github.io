@@ -11,8 +11,8 @@ Ruby on Rails, Git / GitHub, and many other technical topics. You can also discu
 Yale ITS resources, policies, and APIs.
 
 
-Jemin Lee is the assistant manager of the Student Developer program. You can email
-him at jemin.lee@yale.edu. You can see his face in the [ITS Organization Chart, here](http://its.yale.edu/about/its-organization-charts/campus-community-technologies-0/web-technologies/web-technologies-1).
+Jemin Lee is the interim manager of the Student Developer program. You can email
+him at jemin.lee@yale.edu. You can see his face in the [ITS Organization Chart, here](http://its.yale.edu/about/its-organization-charts/campus-community-technologies-0/web-technologies).
 
 **Office:** 143 Elm St. Basement Room B11
 

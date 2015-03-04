@@ -9,7 +9,7 @@ in_sidebar?: true
 The Student Developer and Mentorship Program team members of Fall 2014!
 
 ### Managers
-- [Jemin Lee](https://github.com/jeminlee) - Assistant Manager
+- [Jemin Lee](https://github.com/jeminlee) - Interim Manager
 
 ### Android Developers
 - [Jason Liu](https://github.com/jasonkliu) - Pierson '16

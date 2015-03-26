@@ -13,7 +13,7 @@ form [here](https://docs.google.com/a/yale.edu/forms/d/1BpWnnO3HAEMHsWuum2oeFnvU
 These courses are designed to be quick introductions to various technologies
 with a goal of getting students started.-->
 
-**There are no workshops left for the Fall 2014 semester.** 
+**There are no workshops left for the Fall 2014 semester.**
 
 **Eligibility:**
 These workshops will be taught both Fall and Spring semesters.
@@ -40,18 +40,15 @@ You will need a Mac to develop on the iOS platform. You will also need Xcode 5
 available on the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12).
 
 **Instructor:**
-Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 **When:**
-For Fall 2014, the course will be held on Friday, September 19th from 1:30pm - 3:00pm,
-Office hours will be held after the course for additional help.
+
 
 **Location:**
-TEAL Classroom
-17 Hillhouse Ave
-New Haven, CT 06511
 
-**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207357492/)**
+
+<!--**Please RSVP to the [Meetup event]()**-->
 
 ###Android Development
 **Content:**
@@ -68,18 +65,14 @@ We will be using the Android Studio development environment. Please download it
 in preparation for the course. This is available on the Android [website](https://developer.android.com/sdk/installing/studio.html).
 
 **Instructor:**
-Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 **When:**
-For Fall 2014, the course will be held on Friday, October 10th from 1:30pm - 3:00pm,
-Office hours will be held after the course for additional help.
+
 
 **Location:**
-TEAL Classroom
-17 Hillhouse Ave
-New Haven, CT 06511
 
-**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207365512/?a=ea1_grp&rv=ea1&_af_eid=207365512&_af=event)**
+<!--**Please RSVP to the [Meetup event]()**-->
 
 ###Google App Engine
 **Content:**
@@ -96,18 +89,15 @@ welcome but may need to do some pre-work to fully understand the course.
 An account with Google. All Yale undergrads will use Google App Engine through EliApps.
 
 **Instructor:**
-Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 **When:**
-For Fall 2014, the course will be held on Friday, November 7th from 1:30pm - 3:00pm,
-Office hours will be held after the course for additional help.
+
 
 **Location:**
-TEAL Classroom
-17 Hillhouse Ave
-New Haven, CT 06511
 
-**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207367522/?a=ea1_grp&rv=ea1&_af_eid=207367522&_af=event)**
+
+<!--**Please RSVP to the [Meetup event]()**-->
 
 ###Google Sites
 **Content:**
@@ -121,15 +111,14 @@ No background in programming is required for this course.
 An account with Google. All Yale undergrads will use Google Sites through EliApps.
 
 **Instructor:**
-Jemin Lee (Assistant Manager, Student Developer and Mentorship Program)
+Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 **When:**
-For Fall 2014, the course will be held on Friday, November 14th from 1:30pm - 3:00pm,
-Office hours will be held after the course for additional help.
+
 
 **Location:**
-WLH 208
-100 Wall Street, New Haven, CT
-November 14th, 2014
 
-**Please RSVP to the [Meetup event](http://www.meetup.com/newhavenio/events/207366462/?a=ea1_grp&rv=ea1&_af_eid=207366462&_af=event)**
+<!--**Please RSVP to the [Meetup event]()**-->
+
+###HackYale
+More courses offered by [HackYale.](http://www.hackyale.com/)

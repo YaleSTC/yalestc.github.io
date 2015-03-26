@@ -9,6 +9,9 @@ in_sidebar?: true
 For questions relating to the Student Developer Program, please send an email to
 [dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).
 
+<!--### Mobile Consultation and Publishing Service-->
+
+
 ### Project Development Teams
 For questions specific to one of the Developer Program's software projects,
 please email the appropriate developer list:

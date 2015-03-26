@@ -8,6 +8,7 @@ in_sidebar?: true
 
 ## APIs
 * [Codecademy APIs course](http://www.codecademy.com/tracks/apis)
+* [Yale API Portal](https://developers.yale.edu/)
 
 ## Command line / Terminal
 * [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/) -

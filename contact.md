@@ -9,6 +9,9 @@ in_sidebar?: true
 For questions relating to the Student Developer Program, please send an email to
 [dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).
 
+Jemin Lee - Interim Manager  
+Office Phone: 203-436-3860 
+
 <!--### Mobile Consultation and Publishing Service-->
 
 

@@ -34,14 +34,13 @@ technologies
 
 ## Application process (all roles)
 
-###Hiring for the Spring 2015 semester has ended.
+###We are hiring a JavaScript developer, Android developers, and iOS Developers for the Summer and Fall.
 
-
-Our next hiring round will be in July, for jobs beginning in August. Below are the application instructions. In the meantime, fill out [this form](https://docs.google.com/a/yale.edu/spreadsheet/viewform?usp=drive_web&formkey=dFVxelF5WC1qQldRVmNrcVNDcWlHbkE6MQ#gid=0) if you're interested to be sure to get updates from us!
+Below are the application instructions. In the meantime, fill out [this form](https://docs.google.com/a/yale.edu/spreadsheet/viewform?usp=drive_web&formkey=dFVxelF5WC1qQldRVmNrcVNDcWlHbkE6MQ#gid=0) if you're interested to be sure to get updates from us!
 
 Please complete the following items:
 
-1. [Google Form Application](https://docs.google.com/a/yale.edu/forms/d/1hjyg3lcRIyXQGACgwgIZn_xUPUxkE57WB9gS9Q4ZiqY/viewform)
+1. [Google Form Application](https://docs.google.com/a/yale.edu/forms/d/1rpCw2ikA69OSi_NAh35Axj9WkXstfux6YQf0kxMRX_c/viewform)
 2. Additional Materials (sent to a [Box email address](mailto:upload.Applica.ibi6diklvg@u.box.com))
     * a resume
     * two samples of your work

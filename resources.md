@@ -68,6 +68,8 @@ relatively complete introduction to HTML & CSS
 * [W3Schools HTML Tutorials](http://www.w3schools.com/html/default.asp) and
 [CSS Tutorials](http://www.w3schools.com/css/default.asp) - The canonical and
 definitive resource for HTML/CSS. Not the clearest source, but still valuable.
+* [A Detailed HTML Overview](http://ithare.com/a-detailed-html-overview/) - An in-depth
+overview of HTML.
 
 ### Supplementary
 * [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)

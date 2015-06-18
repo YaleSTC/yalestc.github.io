@@ -6,6 +6,9 @@ sidebar_title: Projects
 in_sidebar?: true
 ---
 
+## SDMP Project Proposal
+- [Project Proposal Form](https://docs.google.com/a/yale.edu/forms/d/1fOYPwgLLejoy-qq3LOHsXwuQqWNIbnGWR-ct53gcTlA/viewform)
+
 ## Current Projects
 - [Reservations](https://yalestc.github.io/reservations/) is an open-source
 application for item loan management.

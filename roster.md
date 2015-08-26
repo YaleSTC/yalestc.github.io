@@ -13,38 +13,29 @@ The Student Developer and Mentorship Program team members of Fall 2014!
 
 ### Android Developers
 - [Jason Liu](https://github.com/jasonkliu) - Pierson '16
-- [Abhishek Chandra](https://github.com/abchandra) - Saybrook '16
 - [Carsten Peterson](https://github.com/clhpeterson) - Morse '17
 - [Stanislaw Swidwinski](https://github.com/Ebstein) - Trumbull '17
-- Alfred Delle - Ezra Stiles '17 (New Hire!)
-- Devansh Tandon - Berkeley '17 (New Hire!)
+- [Alfred Delle](https://github.com/ananse-delle) - Ezra Stiles '17
+- [Devansh Tandon](https://github.com/devanshtandon) - Berkeley '17
 
 ### iOS Developers
-- [Hengchu Zhang](https://github.com/hengchu) - Calhoun '15
-- [Charly Walther](https://github.com/cmwalther) - Berkeley '16
-- [Minh Tri Pham](https://github.com/mrgoodboy) - Jonathan Edwards '17
-<!-- - [Jenny Allen](https://github.com/jennyallen) - Trumbull '16 -->
-- Hannia Zia - Saybrook '16
-- Lee Danilek - Silliman '18 (New Hire!)
-- Taishi Nojima - Ezra Stiles '18 (New Hire!)
+- [Lee Danilek](https://github.com/ldanilek) - Silliman '18
+- [Taishi Nojima](https://github.com/taishi8117) - Ezra Stiles '18
 
 ### Ruby on Rails Developers
 - [Oren Kanner](https://github.com/orenyk) - GRAD '16
-<!-- - Henok Addis - Ezra Stiles '17 -->
 - [Jay Hou](https://github.com/jiggoha) - Trumbull '17
 - [Sylvan Zheng](https://github.com/squidgetx) - Morse '17
-- [Thomas Weng](https://github.com/thomasweng15) - Trumbull '15
 - [Xinwei Yao](https://github.com/njlxyaoxinwei) - Jonathan Edwards '16
-- Qingyang Chen - Silliman '17
+- [Qingyang Chen](https://github.com/coollog) - Silliman '17
 - [Šimon Podhajský](https://github.com/shippy) - Berkeley '15
-- Sydney Young - Silliman '18 (New Hire!)
-- Alan Liu - Timothy Dwight '18 (New Hire!)
-- Connor McLaughlin - Morse '18 (New Hire!)
-- Tyler Petrochko - Timothy Dwight '18 (New Hire!)
+- [Sydney Young](https://github.com/esoterik) - Silliman '18
+- [Alan Liu](https://github.com/AlanLiu96) - Timothy Dwight '18
+- [Connor McLaughlin](https://github.com/connormcl) - Morse '18
+- [Tyler Petrochko](https://github.com/TyPetrochko) - Timothy Dwight '18
 
 ### JavaScript Developers
-- Daniel Leibovic - Trumbull '17 (New Hire!)
-- [David McPeek](https://github.com/jdmcpeek) - Berkeley '17 (New Hire!)
+- [Daniel Leibovic](https://github.com/daniel-leibovic) - Trumbull '17
 
 ### User Experience and Design
 - [Jessica Yang](https://github.com/krysjez) - Berkeley '16

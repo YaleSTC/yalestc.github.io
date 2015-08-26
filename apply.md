@@ -34,7 +34,7 @@ technologies
 
 ## Application process (all roles)
 
-###We are hiring a JavaScript developer, Android developers, and iOS Developers for the Summer and Fall.
+###We are hiring iOS Developers for the Fall and Spring 2016 semester.
 
 Below are the application instructions. In the meantime, fill out [this form](https://docs.google.com/a/yale.edu/spreadsheet/viewform?usp=drive_web&formkey=dFVxelF5WC1qQldRVmNrcVNDcWlHbkE6MQ#gid=0) if you're interested to be sure to get updates from us!
 

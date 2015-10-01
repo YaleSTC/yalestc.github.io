@@ -9,6 +9,9 @@ in_sidebar?: true
 ## SDMP Project Proposal
 - [Project Proposal Form](https://docs.google.com/a/yale.edu/forms/d/1fOYPwgLLejoy-qq3LOHsXwuQqWNIbnGWR-ct53gcTlA/viewform)
 
+## Mobile Consultation and Publishing Service
+- [Mobile Consultation Service](http://its.yale.edu/services/web-and-application-services/web-application-and-mobile-consultations/mobile-applications) - A service for students, faculty, and staff to provide guidelies and recommendations on your next mobile project.
+
 ## Current Projects
 - [Reservations](https://yalestc.github.io/reservations/) is an open-source
 application for item loan management.

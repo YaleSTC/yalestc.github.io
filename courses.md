@@ -13,7 +13,11 @@ form [here](https://docs.google.com/a/yale.edu/forms/d/1BpWnnO3HAEMHsWuum2oeFnvU
 These courses are designed to be quick introductions to various technologies
 with a goal of getting students started.-->
 
-**There are no workshops left for the Fall 2014 semester.**
+**There are currently no workshops for the Fall 2015 semester.**
+
+New Haven developer meetups at: [NewHaven.io](http://www.meetup.com/newhavenio/)
+
+More courses offered by [HackYale.](http://www.hackyale.com/)
 
 **Eligibility:**
 These workshops will be taught both Fall and Spring semesters.
@@ -120,5 +124,3 @@ Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 <!--**Please RSVP to the [Meetup event]()**-->
 
-###HackYale
-More courses offered by [HackYale.](http://www.hackyale.com/)

@@ -9,13 +9,13 @@ in_sidebar?: true
 For questions relating to the Student Developer Program, please send an email to
 [dev-mgt@yale.edu](mailto:dev-mgt@yale.edu).
 
-Jemin Lee - Interim Manager
-Office Phone: 203-436-3860 
-Office: 143 Elm St. Basement Room B11
+Jemin Lee - Interim Manager<br />
+Office Phone: 203-436-3860 <br />
+Room: 143 Elm St. Basement Room B11
 
-Lec Maj - Director of User Experience and Web Services
-Office Phone - 203-436-3881
-Office: 25 Science Park Room 573
+Lec Maj - Director of User Experience and Web Services<br />
+Office Phone - 203-436-3881<br />
+Room: 25 Science Park Room 573
 
 
 ### Project Development Teams

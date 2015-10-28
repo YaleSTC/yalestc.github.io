@@ -6,10 +6,6 @@ sidebar_title: Home
 in_sidebar?: true
 ---
 
-<center><img src="/public/SDMPIceCreamPoster.png" width="400" height="600"></center>
-
-SDMP is hosting their second Ice Cream Social at the HackSpace at 143 Elm St. on October 16th from 2-4pm! Come meet the student developers, Yale ITS, and developers from local companies!  
-
 ###About
 
 Motivated by the strong interest among Yale students to build applications, the

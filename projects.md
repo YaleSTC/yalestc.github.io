@@ -19,10 +19,8 @@ application for item loan management.
 allows easy tracking of employees who work scheduled hours in various locations
 and times.
 - WiFi Reporter is a mobile app that checks and reports on areas of slow wifi connectivity around campus.
-- ListManager helps students who manage antiquated panlists transition them over to Mailman or EliLists.
-- Pulse is a mobile app that allows YCC to quickly survey the student body.
-- Yale (Public) is a mobile app that is aimed towards the general public providing
-information about Yale University.
+- [ListManager](https://list-manager.yale.edu/) helps those who manage antiquated panlists transition them over to Mailman.
+- Yale is a mobile app that is aimed towards the general public providing information about Yale University.
 - Yale Mobile is a mobile app for students that provides useful information about everything from dining halls to laundry machines.
 
 ## Previous Projects

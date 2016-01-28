@@ -12,7 +12,7 @@ Yale ITS resources, policies, and APIs.
 
 
 Jemin Lee is the interim manager of the Student Developer program. You can email
-him at jemin.lee@yale.edu. You can see his face in the [ITS Organization Chart, here](http://its.yale.edu/about/its-organization-charts/campus-community-technologies-0/web-technologies).
+him at jemin.lee@yale.edu. You can see his face in the [ITS Organization Chart, here](http://its.yale.edu/about/its-organization-charts/campus-community-technologies/web-technologies/web-technologies-2).
 
 **Office:** 143 Elm St. Basement Room B11
 

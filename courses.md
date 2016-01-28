@@ -13,8 +13,6 @@ form [here](https://docs.google.com/a/yale.edu/forms/d/1BpWnnO3HAEMHsWuum2oeFnvU
 These courses are designed to be quick introductions to various technologies
 with a goal of getting students started.-->
 
-**There are currently no workshops for the Fall 2015 semester.**
-
 New Haven developer meetups at: [NewHaven.io](http://www.meetup.com/newhavenio/)
 
 More courses offered by [HackYale.](http://www.hackyale.com/)
@@ -25,7 +23,7 @@ They are open to anyone, even people not affiliated with Yale. Currently,
 the courses do not have a maximum capacity.
 Previous programming experience requirements vary on the workshop.
 
-###iOS Development
+<!--###iOS Development
 **Content:**
 This course will cover the structure of an iOS project, Xcode tools, and the
 fundamentals of iOS development.
@@ -52,7 +50,7 @@ Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 **Location:**
 
 
-<!--**Please RSVP to the [Meetup event]()**-->
+**Please RSVP to the [Meetup event]()**
 
 ###Android Development
 **Content:**
@@ -76,7 +74,7 @@ Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 **Location:**
 
-<!--**Please RSVP to the [Meetup event]()**-->
+**Please RSVP to the [Meetup event]()**
 
 ###Google App Engine
 **Content:**
@@ -101,7 +99,7 @@ Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 **Location:**
 
 
-<!--**Please RSVP to the [Meetup event]()**-->
+**Please RSVP to the [Meetup event]()**
 
 ###Google Sites
 **Content:**
@@ -122,5 +120,51 @@ Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 **Location:**
 
-<!--**Please RSVP to the [Meetup event]()**-->
+**Please RSVP to the [Meetup event]()**-->
 
+###Swift Programming Language
+**Content:**
+Lee Danilek, iOS Developer for the Student Developer and Mentorship Program, will be giving a presentation on the Swift Programming Language. Pros and cons, development, and how to get started.
+
+Little background in programming is recommended for this course.
+
+**Instructor:**
+Lee Danilek (Lead iOS Developer, Student Developer and Mentorship Program)
+
+**When:**
+Friday, February 5th - 3pm-4:30pm
+
+**Location:**
+143 Elm St. Basement
+
+
+###Postman API Tester
+**Content:**
+Seong-June Kim, Lead Software Engineer of Yale ITS Mobile and Web Technologies, will be giving a presentation on how to utilize Postman API tester when working on projects.
+
+Background in programming and using APIs is recommended for this course.
+
+**Instructor:**
+Seong-June Kim (Lead Software Engineer, ITSCCT Web)
+
+**When:**
+Friday, February 12th - 3pm-4:30pm
+
+**Location:**
+143 Elm St. Basement
+
+
+###Docker Containers
+**Content:**
+Felix Rodriguez, Associate Director of Mobile & Web Technologies at Yale University ITS, will be presenting on how to create and work with Docker containers.
+
+Background in programming is recommended for this course.
+
+**Instructor:**
+Felix Rodriguez (Associate Director of Mobile & Web Technologies, ITSCCT Web)
+
+**When:**
+Friday, February 19th - 3pm-4:30pm
+
+**Location:**
+143 Elm St. Basement

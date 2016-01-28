@@ -24,5 +24,4 @@ please email the appropriate developer list:
 
 - Reservations: [stc-developers-reservations@elilists.yale.edu](mailto:stc-developers-reservations@elilists.yale.edu)
 - Shifts: [stc-developers-shifts@elilists.yale.edu](mailto:stc-developers-shifts@elilists.yale.edu)
-- Wifi Reporter: [stc-developers-wifireporter@elilists.yale.edu](mailto:stc-developers-wifireporter@elilists.yale.edu)
 - YaleMobile: [stc-developers-yalemobile@elilists.yale.edu](mailto:stc-developers-yalemobile@elilists.yale.edu)

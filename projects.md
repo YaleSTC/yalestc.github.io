@@ -34,8 +34,7 @@ While the Developers Program's flagship apps have historically been
 products over the years. For example:
 
 - [Trumbull Housing App](https://github.com/YaleSTC/housing)
-  - This application was used by the Trumbull College housing committee in 2013
-  and 2014.
+  - This application was used by the Trumbull College housing committee from 2013 - 2016.
 
 We also have the following small applications, mainly for STC internal use:
 

@@ -6,8 +6,8 @@ sidebar_title: Workshops
 in_sidebar?: true
 ---
 
-###Registration
-<!-- If you are interested in attending any of these workshops, please fill out the
+<!-- ###Registration
+If you are interested in attending any of these workshops, please fill out the
 form [here](https://docs.google.com/a/yale.edu/forms/d/1BpWnnO3HAEMHsWuum2oeFnvUWKI5GTuu_kbRNkud62w/viewform).
 
 These courses are designed to be quick introductions to various technologies

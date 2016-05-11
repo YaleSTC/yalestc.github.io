@@ -7,11 +7,13 @@ in_sidebar?: true
 ---
 
 ###Registration
-<!--If you are interested in attending any of these workshops, please fill out the
+<!-- If you are interested in attending any of these workshops, please fill out the
 form [here](https://docs.google.com/a/yale.edu/forms/d/1BpWnnO3HAEMHsWuum2oeFnvUWKI5GTuu_kbRNkud62w/viewform).
 
 These courses are designed to be quick introductions to various technologies
-with a goal of getting students started.-->
+with a goal of getting students started. -->
+
+**There are currently no workshops for the Fall 2015 semester.**
 
 New Haven developer meetups at: [NewHaven.io](http://www.meetup.com/newhavenio/)
 
@@ -23,7 +25,7 @@ They are open to anyone, even people not affiliated with Yale. Currently,
 the courses do not have a maximum capacity.
 Previous programming experience requirements vary on the workshop.
 
-<!--###iOS Development
+<!-- ###iOS Development
 **Content:**
 This course will cover the structure of an iOS project, Xcode tools, and the
 fundamentals of iOS development.
@@ -120,7 +122,7 @@ Jemin Lee (Interim Manager, Student Developer and Mentorship Program)
 
 **Location:**
 
-**Please RSVP to the [Meetup event]()**-->
+**Please RSVP to the [Meetup event]()**
 
 ###Swift Programming Language
 **Content:**
@@ -168,3 +170,5 @@ Friday, February 19th - 3pm-4:30pm
 
 **Location:**
 143 Elm St. Basement
+
+**Please RSVP to the [Meetup event]()** -->

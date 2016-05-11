@@ -6,6 +6,9 @@ sidebar_title: Resources
 in_sidebar?: true
 ---
 
+## Borrowing Testing Devices
+* [Reservations](https://reservations.yale.edu/sdmp)
+
 ## APIs
 * [Codecademy APIs course](http://www.codecademy.com/tracks/apis)
 * [Yale API Portal](https://developers.yale.edu/)

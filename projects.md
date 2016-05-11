@@ -18,10 +18,8 @@ application for item loan management.
 - [Shifts](https://yalestc.github.io/shifts/) is an open-source application that
 allows easy tracking of employees who work scheduled hours in various locations
 and times.
-- WiFi Reporter is a mobile app that checks and reports on areas of slow wifi connectivity around campus.
-- [ListManager](https://list-manager.yale.edu/) helps those who manage antiquated panlists transition them over to Mailman.
-- Yale is a mobile app that is aimed towards the general public providing information about Yale University.
 - Yale Mobile is a mobile app for students that provides useful information about everything from dining halls to laundry machines.
+- [Yale Campus Map](http://map.yale.edu) is the new web-based map that displays all Yale locations.
 
 ## Previous Projects
 The Yale Student Developers program began under the umbrella of the
@@ -35,9 +33,6 @@ While the Developers Program's flagship apps have historically been
 [Shifts](https://github.com/YaleSTC/shifts), the program has touched many
 products over the years. For example:
 
-- [Kitchen Reservations](https://github.com/YaleSTC/kitchen-reservations)
-  - This is a small app we inherited which manages reservations of the kitchen
-  space in Calhoun College. It's pretty basic, but very functional.
 - [Trumbull Housing App](https://github.com/YaleSTC/housing)
   - This application was used by the Trumbull College housing committee in 2013
   and 2014.
@@ -55,9 +50,6 @@ We also have the following small applications, mainly for STC internal use:
   USB-key distribution.
 - [Service Now Ruby API](https://github.com/YaleSTC/service_now)
   - This gem integrates the Service-Now API with Ruby.
-- [CSV to LDAP](https://github.com/YaleSTC/csv-to-ldap)
-  - This simple app takes a list of Yale NetIDs, and pulls in the missing data
-  from the university LDAP.
 - [E-Academy Store](https://github.com/YaleSTC/eacademy_store)
   - This provides admin access to qualified persons at Yale for E-Academy.
 - [Mailman Roster](https://github.com/YaleSTC/mailman_roster)

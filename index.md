@@ -6,7 +6,7 @@ sidebar_title: Home
 in_sidebar?: true
 ---
 
-###About
+### About
 
 Motivated by the strong interest among Yale students to build applications, the
 Student Developer Program was launched in the Fall of 2012. The program is part
@@ -14,14 +14,14 @@ of ITS Campus Community Technologies (CCT), and has three core goals: teach
 interested students how to develop software, hire students to develop software,
 and support the broader student developer community.
 
-###Teaching
+### Teaching
 
 The Student Developer Program currently offers a number of workshops each semester,
 on a variety of topics (including Android Development, iOS Development, and more).
 
 - [More about the Workshops](courses.html)
 
-###Employment & Projects
+### Employment & Projects
 
 We offer students the opportunity to work as Student Developers. Student
 Developers receive on-going training, and get paid to work on software projects
@@ -30,7 +30,7 @@ related to student life, academics, and other University needs.
 - [More about our roles and job opportunities](/jobs/index.html)
 - [Submit a project idea](http://its.yale.edu/centers/student-technology-collaborative/student-developer-projects-and-project-proposals)
 
-###Community
+### Community
 
 We also work to support the community of students interested in learning and
 practicing software development. In addition to our course offerings, we work
@@ -41,7 +41,7 @@ with ITS for students to provide feedback on ITS projects.
 
 - [More about our office hours](officehours.html)
 
-###Success
+### Success
 
 In past years, students who have worked for the Student Developer and Mentorship Program
 have gone to intern or work at companies like Bloomberg, Google, Microsoft, Facebook, Uber,

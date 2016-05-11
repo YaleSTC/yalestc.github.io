@@ -25,3 +25,4 @@ please email the appropriate developer list:
 - Reservations: [stc-developers-reservations@elilists.yale.edu](mailto:stc-developers-reservations@elilists.yale.edu)
 - Shifts: [stc-developers-shifts@elilists.yale.edu](mailto:stc-developers-shifts@elilists.yale.edu)
 - YaleMobile: [stc-developers-yalemobile@elilists.yale.edu](mailto:stc-developers-yalemobile@elilists.yale.edu)
+- Yale Campus Map: [campus.map@yale.edu](mailto:campus.map@yale.edu)

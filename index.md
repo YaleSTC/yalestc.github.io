@@ -8,11 +8,8 @@ in_sidebar?: true
 
 ### About
 
-Motivated by the strong interest among Yale students to build applications, the
-Student Developer Program was launched in the Fall of 2012. The program is part
-of ITS Campus Community Technologies (CCT), and has three core goals: teach
-interested students how to develop software, hire students to develop software,
-and support the broader student developer community.
+Motivated by the strong interest among Yale students to build applications, the Student Developer Program was launched in the Fall of 2012. The program became part of ITS Campus Community Technologies (CCT) in 2014. The program has three core goals: provide practical software development experience that is not taught in the classroom, teach students the software development lifecycle, and engage Yale developer community. 
+
 
 ### Teaching
 

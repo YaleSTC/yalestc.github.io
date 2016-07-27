@@ -86,6 +86,7 @@ overview of HTML.
 * [Span vs Div & Inline vs Block](http://dustwell.com/div-span-inline-block.html)
 * [Child Selectors](http://www.w3.org/TR/CSS2/selector.html#child-selectors) vs [Descendant Selectors](http://www.w3.org/TR/CSS2/selector.html#descendant-selectors)
 * [TutsPlus 30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+* [HostingFacts HTML Cheat Sheet](https://hostingfacts.com/html-cheat-sheet/)
 
 ## JavaScript
 

@@ -16,7 +16,6 @@ The Student Developer and Mentorship Program team members of Fall 2015!
 - [Katherine Tan](https://github.com/katkaytee) - Davenport '18
 - [Kristina Shia](https://github.com/kshia) - Jonathan Edwards '19
 - [Faisal Zaghloul] - GSAS '20
-- [Kristina Shia](https://github.com/kshia) - Jonathan Edwards '19
 
 ### iOS Developers
 - [Lee Danilek](https://github.com/ldanilek) - Silliman '18

@@ -6,13 +6,9 @@ in_sidebar?: true
 ---
 
 The SDMP offers "office hours" open to anyone at Yale who would like to discuss software
-development at Yale. You can get advice for programming with HTML/CSS/Javascript,
-Ruby on Rails, Git / GitHub, and many other technical topics. You can also discuss
+development at Yale. You can get advice for projects with web frameworks like ruby on rails or django,
+mobile programming on both Android and iOS, or your favorite javascript library. You can also discuss
 Yale ITS resources, policies, and APIs.
-
-
-Jemin Lee is the interim manager of the Student Developer program. You can email
-him at jemin.lee@yale.edu. You can see his face in the [ITS Organization Chart, here](http://its.yale.edu/about/its-organization-charts/campus-community-technologies-0/web-technologies).
 
 **Office:** 143 Elm St. Basement Room B11
 

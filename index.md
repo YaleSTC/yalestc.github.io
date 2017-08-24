@@ -10,22 +10,13 @@ in_sidebar?: true
 
 Motivated by the strong interest among Yale students to build applications, the Student Developer Program was launched in the Fall of 2012. The program became part of ITS Campus Community Technologies (CCT) in 2014. The program has three core goals: provide practical software development experience that is not taught in the classroom, teach students the software development lifecycle, and engage Yale developer community. 
 
-
-### Teaching
-
-The Student Developer Program currently offers a number of workshops each semester,
-on a variety of topics (including Android Development, iOS Development, and more).
-
-- [More about the Workshops](courses.html)
-
 ### Employment & Projects
 
 We offer students the opportunity to work as Student Developers. Student
 Developers receive on-going training, and get paid to work on software projects
-related to student life, academics, and other University needs.
+in collaboration with the ITS Application Development team.
 
-- [More about our roles and job opportunities](/jobs/index.html)
-- [Submit a project idea](http://its.yale.edu/centers/student-technology-collaborative/student-developer-projects-and-project-proposals)
+- [More about our roles and job opportunities](/apply.html)
 
 ### Community
 
@@ -36,17 +27,14 @@ such as the YCC App Challenge. We also hold open office hours (where students
 can drop in to get advice or just chat about building apps), and focus groups
 with ITS for students to provide feedback on ITS projects.
 
-- [More about our office hours](officehours.html)
-
 ### Success
 
 In past years, students who have worked for the Student Developer and Mentorship Program
 have gone to intern or work at companies like Bloomberg, Google, Microsoft, Facebook, Uber,
-and more..
+and more.
 
 -----
 
 <small>The Student Developer program moved from one part of
-[Yale Information Technology Services](http://its.yale.edu/) to another in Fall
-2014. We were formerly part of the [Student Technology Collaborative](http://www.yale.edu/stc), now we are
+[Yale Information Technology Services](http://its.yale.edu/) to another in Fall 2014. We were formerly part of the [Student Technology Collaborative](http://www.yale.edu/stc), now we are
 part of Campus Community Technologies.</small>

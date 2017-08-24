@@ -6,18 +6,11 @@ sidebar_title: Projects
 in_sidebar?: true
 ---
 
-## SDMP Project Proposal
-- [Project Proposal Form](https://docs.google.com/a/yale.edu/forms/d/1fOYPwgLLejoy-qq3LOHsXwuQqWNIbnGWR-ct53gcTlA/viewform)
-
-## Mobile Consultation and Publishing Service
-- [Mobile Consultation Service](http://its.yale.edu/services/web-and-application-services/web-application-and-mobile-consultations/mobile-applications) - A service for students, faculty, and staff to provide guidelies and recommendations on your next mobile project.
-
 ## Current Projects
+- [Vesta](https://yale.githost.io/sdmp/rails/vesta) is an open-source
+  application to manage the residential college housing process.
 - [Reservations](https://yalestc.github.io/reservations/) is an open-source
 application for item loan management.
-- [Shifts](https://yalestc.github.io/shifts/) is an open-source application that
-allows easy tracking of employees who work scheduled hours in various locations
-and times.
 - Yale Mobile is a mobile app for students that provides useful information about everything from dining halls to laundry machines.
 - [Yale Campus Map](http://map.yale.edu) is the new web-based map that displays all Yale locations.
 
@@ -28,10 +21,13 @@ The Yale Student Developers program began under the umbrella of the
  Technologies and began its rigorous development program with iOS and Android
  development, in addition to its long-standing Ruby on Rails program.
 
-While the Developers Program's flagship apps have historically been
-[Reservations](https://github.com/YaleSTC/reservations) and
-[Shifts](https://github.com/YaleSTC/shifts), the program has touched many
+While the Developers Program's flagship app was historically
+[Reservations](https://github.com/YaleSTC/reservations), the program has touched many
 products over the years. For example:
+
+- [Shifts](https://yalestc.github.io/shifts/) is an open-source application that
+allows easy tracking of employees who work scheduled hours in various locations
+and times.
 
 - [Trumbull Housing App](https://github.com/YaleSTC/housing)
   - This application was used by the Trumbull College housing committee from 2013 - 2016.

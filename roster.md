@@ -7,12 +7,13 @@ in_sidebar?: true
 ---
 
 ## IT Staff
-- [Oren Kanner](https://gitlab.com/orenyk) - Application Development Manager
-- Rebecca Schneider - Program Manager
 - [Matt Coshal](https://gitlab.com/mattcosh) - Software Engineer
-- [Harry Shyket](https://gitlab.com/hshyk) - Software Engineer
+- [Oren Kanner](https://gitlab.com/orenyk) - Application Development Manager
 - [Ashvin Pradhan-Shenoy](https://gitlab.com/ashvin.ps) - Software Engineer Intern
+- Rebecca Schneider - Program Manager
+- [Harry Shyket](https://gitlab.com/hshyk) - Software Engineer
 
+{% comment %}
 ## Students
 ### Student Coords
 - Melina Delgado
@@ -38,3 +39,4 @@ in_sidebar?: true
 - Scotty Gustavo Parajon
 - Austin Tuan
 - Yulan Zhang
+{% endcomment %}

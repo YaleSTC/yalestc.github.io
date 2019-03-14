@@ -3,7 +3,7 @@ layout: page
 title: HackSpace
 tagline:
 sidebar_title: HackSpace
-in_sidebar?: true
+in_sidebar?: false
 ---
 
 ### What is the HackSpace?

@@ -1,11 +1,27 @@
 ---
 layout: page
-title: Apply to Work in SDMP
-sidebar_title: Apply
+title: Apply to work for SDMP
+sidebar_title: Work For Us
 tagline:
 in_sidebar?: true
 ---
+## General Requirements
+* Availability to work a minimum of 10 hrs/week
+* Good communication skills
+* Experience with at least one programming language
+* Enthusiasm!
+* Desire to make life better for the Yale community
+* Willingness to learn and collaborate with teammates
 
+## Roles
+
+Below is a description of the various roles in SDMP. Students generally start as
+developers-in-training for a semester under the guidance of the coords and IT
+staff engineers.
+
+All students are supervised by Rebecca Schneider ([dev-mgt@yale.edu](mailto:dev-mgt@yale.edu)).
+
+{% comment %}
 ## General Perks (all roles)
 * Get paid to learn applicable, real-world skills, and marketable modern-day
 technologies
@@ -13,28 +29,19 @@ technologies
 * Learn skills for your next job or startup
 * Mentorship from professional developers
 * Collaborate with a community of developers
-
-## General Requirements (all roles)
-* Good communication skills
-* Enthusiasm!
-* Desire to make life better for the Yale community
-* Willingness to learn and collaborate with teammates
-* Availability to work a minimum of 10 hrs/week
-* Some programming background (at least one language)
-
-## Roles
-
-Below is a description of the various roles in SDMP. Students generally start as
-developers-in-training for a semester under the guidance of the technical leads
-and other developers.
-
-All students are supervised by Oren Kanner ([dev-mgt{at}yale{dot}edu](mailto:dev-mgt@yale.edu)).
+{% endcomment %}
 
 ### Student Developers
 
 The main responsibility of an SDMP dev is to write code! Our developers
 typically work on a single project after completing a semester of training.
 
+### Student Coords
+
+Coords help manage the student devs, answer questions, assist with training, and
+work with the management team to keep things running smoothly.
+
+{% comment %}
 ### Project Leads
 
 Project leads handle the day-to-day tasks of running a software project by
@@ -60,11 +67,11 @@ liaison between STC, the students in SDMP, and the full time ITS team.
 
 The Engagement Coordinator manages the hackspace at 143 Elm, communicates with
 alumni, and runs events for SDMP throughout the semester.
+{% endcomment %}
 
 ## Application process
-### Applications for Fall 2017 are now open!
 
-Please fill out the [STC Application](https://goo.gl/forms/bBwvvTbIsxAHW6cE3) to
-apply for SDMP. It will contain a link to our specific application form as well
-so make sure to fill out both parts. If you have any questions, feel free to
+The SDMP hiring process is part of the [STC](https://studenttechnology.yale.edu/student-resources/about-stc/stc-programs)
+hiring process. Please visit [this page](https://studenttechnology.yale.edu/student-resources/about-stc/job-opportunities)
+to learn more about applying to SDMP. If you have any questions, feel free to
 e-mail [stc-hiring@yale.edu](mailto:stc-hiring@yale.edu). Good luck!
